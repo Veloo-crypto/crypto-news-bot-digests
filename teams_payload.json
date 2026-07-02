@@ -1,3 +1,125 @@
 {
-  "text": "**Crypto News Bot \u2014 Connectivity Test**\n\nThis is a live test from the automated delivery pipeline (GitHub Actions -> Teams webhook). If you see this message, the pipeline is fully wired up. Real daily digests will start at 8:30 AM.\n\n**Crypto News Bot \u2014 Daily Digest \u2014 July 2, 2026**\n\n_Combined USDT + USDC market cap now ~$260B, roughly 3x its 2023 level, as the July 18 GENIUS Act compliance deadline approaches._\n\n**Stablecoin News**\n- **GENIUS Act final rules due July 18** \u2014 Six US regulators (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) must finalize stablecoin frameworks by July 18, 2026, one year after the GENIUS Act was signed. Rules include a $5M issuer capital floor and no deposit insurance for token holders.\n- **1:1 reserve and licensing mandate tightens the field** \u2014 Every issuer must hold 1:1 reserves in cash or short-term Treasuries and submit to audits. Circle and Coinbase can absorb compliance costs; smaller issuers may be forced to exit or partner up.\n- **Banks moving into the $323B stablecoin market** \u2014 Traditional banks are entering stablecoin issuance and tokenized deposits as the market matures, competing directly with Circle's USDC and Tether's USDT for payment rails share.\n\n**Hacking & Security Incidents**\n- **Humanity Protocol hack: $31M lost** \u2014 Accounted for over 40% of June's total crypto losses. Attackers moved stolen funds across Bitcoin, Solana, Hyperliquid, and BNB Chain to obscure the trail.\n- **Syscoin Bridge exploit: $10M drained** \u2014 Second-largest incident of the month, continuing the pattern of cross-chain bridges as a top attack surface for DeFi protocols.\n- **June losses hit $75.87M across 40 incidents** \u2014 Roughly 40% of cumulative 2026 losses trace back to stolen or compromised private keys rather than smart contract bugs, per PeckShield's monthly tally.\n\n[Full one-page PDF](https://veloo-crypto.github.io/crypto-news-bot-digests/latest.pdf)"
+  "type": "AdaptiveCard",
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.4",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Crypto News Bot \u2014 Daily Digest",
+      "wrap": true,
+      "size": "Large",
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "July 2, 2026",
+      "wrap": true,
+      "size": "Small",
+      "color": "Dark"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Combined USDT + USDC market cap now ~$260B, roughly 3x its 2023 level, as the July 18 GENIUS Act compliance deadline approaches.",
+      "wrap": true,
+      "size": "Small",
+      "spacing": "Medium"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Stablecoin News",
+      "wrap": true,
+      "size": "Medium",
+      "weight": "Bolder",
+      "color": "Good",
+      "spacing": "Medium"
+    },
+    {
+      "type": "TextBlock",
+      "text": "GENIUS Act final rules due July 18",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Six US regulators (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) must finalize stablecoin frameworks by July 18, 2026, one year after the GENIUS Act was signed. Rules include a $5M issuer capital floor and no deposit insurance for token holders.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "1:1 reserve and licensing mandate tightens the field",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Every issuer must hold 1:1 reserves in cash or short-term Treasuries and submit to audits. Circle and Coinbase can absorb compliance costs; smaller issuers may be forced to exit or partner up.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Banks moving into the $323B stablecoin market",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Traditional banks are entering stablecoin issuance and tokenized deposits as the market matures, competing directly with Circle's USDC and Tether's USDT for payment rails share.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Hacking & Security Incidents",
+      "wrap": true,
+      "size": "Medium",
+      "weight": "Bolder",
+      "color": "Attention",
+      "spacing": "Medium"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Humanity Protocol hack: $31M lost",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Accounted for over 40% of June's total crypto losses. Attackers moved stolen funds across Bitcoin, Solana, Hyperliquid, and BNB Chain to obscure the trail.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Syscoin Bridge exploit: $10M drained",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Second-largest incident of the month, continuing the pattern of cross-chain bridges as a top attack surface for DeFi protocols.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "June losses hit $75.87M across 40 incidents",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Roughly 40% of cumulative 2026 losses trace back to stolen or compromised private keys rather than smart contract bugs, per PeckShield's monthly tally.",
+      "wrap": true,
+      "size": "Small"
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Open full one-page PDF",
+      "url": "https://veloo-crypto.github.io/crypto-news-bot-digests/latest.pdf"
+    }
+  ]
 }
