@@ -1,0 +1,38 @@
+{
+  "date": "July 2, 2026",
+  "market_note": "Combined USDT + USDC market cap now ~$260B, roughly 3x its 2023 level, as the July 18 GENIUS Act compliance deadline approaches.",
+  "stablecoin_items": [
+    {
+      "headline": "GENIUS Act final rules due July 18",
+      "summary": "Six US regulators (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) must finalize stablecoin frameworks by July 18, 2026, one year after the GENIUS Act was signed. Rules include a $5M issuer capital floor and no deposit insurance for token holders.",
+      "source": "OCC / Angel Investors Network"
+    },
+    {
+      "headline": "1:1 reserve and licensing mandate tightens the field",
+      "summary": "Every issuer must hold 1:1 reserves in cash or short-term Treasuries and submit to audits. Circle and Coinbase can absorb compliance costs; smaller issuers may be forced to exit or partner up.",
+      "source": "Forbes / a16z crypto"
+    },
+    {
+      "headline": "Banks moving into the $323B stablecoin market",
+      "summary": "Traditional banks are entering stablecoin issuance and tokenized deposits as the market matures, competing directly with Circle's USDC and Tether's USDT for payment rails share.",
+      "source": "Forbes"
+    }
+  ],
+  "hack_items": [
+    {
+      "headline": "Humanity Protocol hack: $31M lost",
+      "summary": "Accounted for over 40% of June's total crypto losses. Attackers moved stolen funds across Bitcoin, Solana, Hyperliquid, and BNB Chain to obscure the trail.",
+      "source": "PeckShield"
+    },
+    {
+      "headline": "Syscoin Bridge exploit: $10M drained",
+      "summary": "Second-largest incident of the month, continuing the pattern of cross-chain bridges as a top attack surface for DeFi protocols.",
+      "source": "PeckShield / Cryptonomist"
+    },
+    {
+      "headline": "June losses hit $75.87M across 40 incidents",
+      "summary": "Roughly 40% of cumulative 2026 losses trace back to stolen or compromised private keys rather than smart contract bugs, per PeckShield's monthly tally.",
+      "source": "Coinedition / Cryptonomist"
+    }
+  ]
+}
