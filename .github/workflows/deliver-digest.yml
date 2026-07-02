@@ -1,0 +1,52 @@
+name: Deliver Crypto Digest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "teams_payload.json"
+      - "whatsapp_payload.json"
+  workflow_dispatch: {}
+
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Post to Microsoft Teams
+        if: hashFiles('teams_payload.json') != ''
+        env:
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+        run: |
+          if [ -z "$TEAMS_WEBHOOK_URL" ]; then
+            echo "TEAMS_WEBHOOK_URL secret not set, skipping Teams post."
+            exit 0
+          fi
+          curl -sS -X POST "$TEAMS_WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d @teams_payload.json \
+            -w "\nHTTP status: %{http_code}\n"
+
+      - name: Send WhatsApp via Twilio
+        if: hashFiles('whatsapp_payload.json') != ''
+        env:
+          TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
+          TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
+          TWILIO_WHATSAPP_FROM: ${{ secrets.TWILIO_WHATSAPP_FROM }}
+          WHATSAPP_TO: ${{ secrets.WHATSAPP_TO }}
+        run: |
+          if [ -z "$TWILIO_ACCOUNT_SID" ]; then
+            echo "Twilio secrets not set yet, skipping WhatsApp send."
+            exit 0
+          fi
+          BODY=$(python3 -c "import json;d=json.load(open('whatsapp_payload.json'));print(d['content_sid'])")
+          VARS=$(python3 -c "import json;d=json.load(open('whatsapp_payload.json'));print(json.dumps(d['content_variables']))")
+          MEDIA=$(python3 -c "import json;d=json.load(open('whatsapp_payload.json'));print(d.get('media_url',''))")
+          curl -sS -X POST "https://api.twilio.com/2010-04-01/Accounts/${TWILIO_ACCOUNT_SID}/Messages.json" \
+            -u "${TWILIO_ACCOUNT_SID}:${TWILIO_AUTH_TOKEN}" \
+            --data-urlencode "To=whatsapp:${WHATSAPP_TO}" \
+            --data-urlencode "From=whatsapp:${TWILIO_WHATSAPP_FROM}" \
+            --data-urlencode "ContentSid=${BODY}" \
+            --data-urlencode "ContentVariables=${VARS}" \
+            -w "\nHTTP status: %{http_code}\n"
