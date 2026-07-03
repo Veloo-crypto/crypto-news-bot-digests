@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 2, 2026",
+      "text": "July 3, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Combined USDT + USDC market cap now ~$260B, roughly 3x its 2023 level, as the July 18 GENIUS Act compliance deadline approaches.",
+      "text": "Circle shares dropped 17.55% after 140+ firms (Visa, Stripe, BlackRock, Coinbase) launched the rival Open USD stablecoin, as GENIUS Act final rules loom on July 18.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,37 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act final rules due July 18",
+      "text": "Visa, Stripe, BlackRock, Coinbase launch Open USD (OUSD) stablecoin",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six US regulators (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) must finalize stablecoin frameworks by July 18, 2026, one year after the GENIUS Act was signed. Rules include a $5M issuer capital floor and no deposit insurance for token holders.",
+      "text": "140+ companies including Mastercard, BNY and Standard Chartered launched OUSD on Solana with free issuance/redemption and reserve revenue shared back to distributors, undercutting Circle and Tether's retained-yield model.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "1:1 reserve and licensing mandate tightens the field",
+      "text": "GENIUS Act final stablecoin rules due July 18",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Every issuer must hold 1:1 reserves in cash or short-term Treasuries and submit to audits. Circle and Coinbase can absorb compliance costs; smaller issuers may be forced to exit or partner up.",
+      "text": "Six federal agencies are finalizing GENIUS Act rules after comment periods closed June 9; non-bank fintechs like Stripe and Block must raise $5M in dedicated capital and charter a stablecoin bank or exit the market.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Banks moving into the $323B stablecoin market",
+      "text": "USDT market cap hits all-time high near $188B, widening lead over USDC",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Traditional banks are entering stablecoin issuance and tokenized deposits as the market matures, competing directly with Circle's USDC and Tether's USDT for payment rails share.",
+      "text": "Tether's dominance has grown since Circle was criticized for slow freezing of USDC linked to the Drift Protocol exploit; USDC sits at roughly $78.25B.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Regulators propose bank-grade KYC rules for stablecoin issuers",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Five US regulators jointly proposed stricter KYC requirements under the GENIUS Act, putting both Circle's USDC and Tether's USDT under closer scrutiny.",
       "wrap": true,
       "size": "Small"
     },
@@ -80,37 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Humanity Protocol hack: $31M lost",
+      "text": "Syscoin Bridge exploited for ~$10M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Accounted for over 40% of June's total crypto losses. Attackers moved stolen funds across Bitcoin, Solana, Hyperliquid, and BNB Chain to obscure the trail.",
+      "text": "An attacker exploited a proof-validation flaw to mint roughly 5 billion unauthorized SYS tokens, one of the larger DeFi bridge incidents of June 2026.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Syscoin Bridge exploit: $10M drained",
+      "text": "Humanity Protocol drained of $31-36M via compromised founder key",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Second-largest incident of the month, continuing the pattern of cross-chain bridges as a top attack surface for DeFi protocols.",
+      "text": "Attackers gained control after a private key linked to founder Terence Kwok was compromised on a malware-infected machine, then minted and drained the project's H token across two networks.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "June losses hit $75.87M across 40 incidents",
+      "text": "H1 2026 sets record for hack count, North Korea tied to 66% of stolen funds",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Roughly 40% of cumulative 2026 losses trace back to stolen or compromised private keys rather than smart contract bugs, per PeckShield's monthly tally.",
+      "text": "TRM Labs counted 207 crypto hacking incidents in H1 2026 with losses near $972M-$1B; roughly two-thirds of stolen funds are attributed to North Korea-linked actors.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Wasabi Protocol drained of $4.5M in admin key compromise",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "An apparent admin key compromise let attackers siphon $4.5M from the protocol, part of a wider pattern of private-key and key-management failures driving 2026 losses.",
       "wrap": true,
       "size": "Small"
     }
