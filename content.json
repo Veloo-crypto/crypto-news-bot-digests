@@ -1,48 +1,48 @@
 {
-  "date": "July 3, 2026",
-  "market_note": "Circle shares dropped 17.55% after 140+ firms (Visa, Stripe, BlackRock, Coinbase) launched the rival Open USD stablecoin, as GENIUS Act final rules loom on July 18.",
+  "date": "July 6, 2026",
+  "market_note": "Open USD (OUSD) — a new dollar stablecoin backed by 140+ firms including Stripe, Visa, Mastercard, and BlackRock — went live on Solana this week, one of the biggest challenges yet to Tether and Circle's dominance.",
   "stablecoin_items": [
     {
-      "headline": "Visa, Stripe, BlackRock, Coinbase launch Open USD (OUSD) stablecoin",
-      "summary": "140+ companies including Mastercard, BNY and Standard Chartered launched OUSD on Solana with free issuance/redemption and reserve revenue shared back to distributors, undercutting Circle and Tether's retained-yield model.",
+      "headline": "Stripe, Visa, Mastercard, BlackRock launch rival stablecoin Open USD",
+      "summary": "A coalition of 140+ banks and fintechs launched Open USD (OUSD) on Solana, passing reserve yield back to businesses that mint and hold the token rather than keeping it as issuer profit.",
       "source": "Fortune"
     },
     {
-      "headline": "GENIUS Act final stablecoin rules due July 18",
-      "summary": "Six federal agencies are finalizing GENIUS Act rules after comment periods closed June 9; non-bank fintechs like Stripe and Block must raise $5M in dedicated capital and charter a stablecoin bank or exit the market.",
-      "source": "OCC / Angel Investors Network"
+      "headline": "EU MiCA transitional period ends, full authorization now required",
+      "summary": "As of July 1, every Crypto-Asset Service Provider in the EU must hold full MiCA authorization or shut down; penalties reach 10% of global turnover or €10M, plus personal liability for senior managers.",
+      "source": "FinanceX Magazine"
     },
     {
-      "headline": "USDT market cap hits all-time high near $188B, widening lead over USDC",
-      "summary": "Tether's dominance has grown since Circle was criticized for slow freezing of USDC linked to the Drift Protocol exploit; USDC sits at roughly $78.25B.",
-      "source": "DL News"
+      "headline": "GENIUS Act rulemaking deadline looms July 18",
+      "summary": "Six U.S. federal agencies tasked with finalizing stablecoin rules under the GENIUS Act have until July 18 to publish the joint regulatory framework.",
+      "source": "Office of the Comptroller of the Currency"
     },
     {
-      "headline": "Regulators propose bank-grade KYC rules for stablecoin issuers",
-      "summary": "Five US regulators jointly proposed stricter KYC requirements under the GENIUS Act, putting both Circle's USDC and Tether's USDT under closer scrutiny.",
-      "source": "OCC"
+      "headline": "Tether launches stablecoin wallet; Circle's Arc chain moves to proof-of-stake",
+      "summary": "Tether rolled out its own consumer stablecoin wallet while Circle continued transitioning its Arc chain to a proof-of-stake consensus model.",
+      "source": "CoinGeek"
     }
   ],
   "hack_items": [
     {
-      "headline": "Syscoin Bridge exploited for ~$10M",
-      "summary": "An attacker exploited a proof-validation flaw to mint roughly 5 billion unauthorized SYS tokens, one of the larger DeFi bridge incidents of June 2026.",
-      "source": "BeInCrypto"
+      "headline": "KelpDAO exploit hits $294M, among 2026's largest",
+      "summary": "Investigators describe the KelpDAO breach as a sophisticated, state-directed operation exploiting infrastructure rather than a simple smart-contract bug.",
+      "source": "CryptoPotato"
     },
     {
-      "headline": "Humanity Protocol drained of $31-36M via compromised founder key",
-      "summary": "Attackers gained control after a private key linked to founder Terence Kwok was compromised on a malware-infected machine, then minted and drained the project's H token across two networks.",
-      "source": "PeckShield / Coinpaprika"
+      "headline": "Drift Protocol breach drains roughly $285M",
+      "summary": "TRM Labs attributes the Drift Protocol loss to an infrastructure compromise; combined with KelpDAO, the two incidents account for nearly 59% of all H1 2026 crypto theft.",
+      "source": "Crowdfund Insider"
     },
     {
-      "headline": "H1 2026 sets record for hack count, North Korea tied to 66% of stolen funds",
-      "summary": "TRM Labs counted 207 crypto hacking incidents in H1 2026 with losses near $972M-$1B; roughly two-thirds of stolen funds are attributed to North Korea-linked actors.",
-      "source": "TRM Labs"
+      "headline": "North Korea-linked groups tied to 66% of H1 2026 crypto theft",
+      "summary": "Crypto hacks hit record frequency in H1 2026, though total losses stayed just under $1B; DPRK-linked actors are estimated behind roughly $643M of that total.",
+      "source": "Crowdfund Insider"
     },
     {
-      "headline": "Wasabi Protocol drained of $4.5M in admin key compromise",
-      "summary": "An apparent admin key compromise let attackers siphon $4.5M from the protocol, part of a wider pattern of private-key and key-management failures driving 2026 losses.",
-      "source": "CoinDesk"
+      "headline": "Coordinated attack drains 100+ EVM wallets for $107K",
+      "summary": "A mysterious, automated attack swept across EVM-compatible chains, draining small amounts from over 100 wallets in a pattern researchers are still tracing.",
+      "source": "Cointribune"
     }
   ]
 }

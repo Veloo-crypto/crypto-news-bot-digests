@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 3, 2026",
+      "text": "July 6, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Circle shares dropped 17.55% after 140+ firms (Visa, Stripe, BlackRock, Coinbase) launched the rival Open USD stablecoin, as GENIUS Act final rules loom on July 18.",
+      "text": "Open USD (OUSD) \u2014 a new dollar stablecoin backed by 140+ firms including Stripe, Visa, Mastercard, and BlackRock \u2014 went live on Solana this week, one of the biggest challenges yet to Tether and Circle's dominance.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Visa, Stripe, BlackRock, Coinbase launch Open USD (OUSD) stablecoin",
+      "text": "Stripe, Visa, Mastercard, BlackRock launch rival stablecoin Open USD",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "140+ companies including Mastercard, BNY and Standard Chartered launched OUSD on Solana with free issuance/redemption and reserve revenue shared back to distributors, undercutting Circle and Tether's retained-yield model.",
+      "text": "A coalition of 140+ banks and fintechs launched Open USD (OUSD) on Solana, passing reserve yield back to businesses that mint and hold the token rather than keeping it as issuer profit.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act final stablecoin rules due July 18",
+      "text": "EU MiCA transitional period ends, full authorization now required",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six federal agencies are finalizing GENIUS Act rules after comment periods closed June 9; non-bank fintechs like Stripe and Block must raise $5M in dedicated capital and charter a stablecoin bank or exit the market.",
+      "text": "As of July 1, every Crypto-Asset Service Provider in the EU must hold full MiCA authorization or shut down; penalties reach 10% of global turnover or \u20ac10M, plus personal liability for senior managers.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "USDT market cap hits all-time high near $188B, widening lead over USDC",
+      "text": "GENIUS Act rulemaking deadline looms July 18",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Tether's dominance has grown since Circle was criticized for slow freezing of USDC linked to the Drift Protocol exploit; USDC sits at roughly $78.25B.",
+      "text": "Six U.S. federal agencies tasked with finalizing stablecoin rules under the GENIUS Act have until July 18 to publish the joint regulatory framework.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Regulators propose bank-grade KYC rules for stablecoin issuers",
+      "text": "Tether launches stablecoin wallet; Circle's Arc chain moves to proof-of-stake",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Five US regulators jointly proposed stricter KYC requirements under the GENIUS Act, putting both Circle's USDC and Tether's USDT under closer scrutiny.",
+      "text": "Tether rolled out its own consumer stablecoin wallet while Circle continued transitioning its Arc chain to a proof-of-stake consensus model.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Syscoin Bridge exploited for ~$10M",
+      "text": "KelpDAO exploit hits $294M, among 2026's largest",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "An attacker exploited a proof-validation flaw to mint roughly 5 billion unauthorized SYS tokens, one of the larger DeFi bridge incidents of June 2026.",
+      "text": "Investigators describe the KelpDAO breach as a sophisticated, state-directed operation exploiting infrastructure rather than a simple smart-contract bug.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Humanity Protocol drained of $31-36M via compromised founder key",
+      "text": "Drift Protocol breach drains roughly $285M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Attackers gained control after a private key linked to founder Terence Kwok was compromised on a malware-infected machine, then minted and drained the project's H token across two networks.",
+      "text": "TRM Labs attributes the Drift Protocol loss to an infrastructure compromise; combined with KelpDAO, the two incidents account for nearly 59% of all H1 2026 crypto theft.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "H1 2026 sets record for hack count, North Korea tied to 66% of stolen funds",
+      "text": "North Korea-linked groups tied to 66% of H1 2026 crypto theft",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "TRM Labs counted 207 crypto hacking incidents in H1 2026 with losses near $972M-$1B; roughly two-thirds of stolen funds are attributed to North Korea-linked actors.",
+      "text": "Crypto hacks hit record frequency in H1 2026, though total losses stayed just under $1B; DPRK-linked actors are estimated behind roughly $643M of that total.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Wasabi Protocol drained of $4.5M in admin key compromise",
+      "text": "Coordinated attack drains 100+ EVM wallets for $107K",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "An apparent admin key compromise let attackers siphon $4.5M from the protocol, part of a wider pattern of private-key and key-management failures driving 2026 losses.",
+      "text": "A mysterious, automated attack swept across EVM-compatible chains, draining small amounts from over 100 wallets in a pattern researchers are still tracing.",
       "wrap": true,
       "size": "Small"
     }
