@@ -1,48 +1,48 @@
 {
   "date": "July 6, 2026",
-  "market_note": "Open USD (OUSD) — a new dollar stablecoin backed by 140+ firms including Stripe, Visa, Mastercard, and BlackRock — went live on Solana this week, one of the biggest challenges yet to Tether and Circle's dominance.",
+  "market_note": "Stablecoin market cap hits a record ~$322B, now exceeding the FX reserves of 95 countries, as issuers race to comply with the GENIUS Act's July 18 rulemaking deadline.",
   "stablecoin_items": [
     {
-      "headline": "Stripe, Visa, Mastercard, BlackRock launch rival stablecoin Open USD",
-      "summary": "A coalition of 140+ banks and fintechs launched Open USD (OUSD) on Solana, passing reserve yield back to businesses that mint and hold the token rather than keeping it as issuer profit.",
-      "source": "Fortune"
+      "headline": "Stripe, Visa, BlackRock back new OUSD stablecoin to rival Tether and Circle",
+      "summary": "Open Standard, a coalition of 140+ businesses, launched Open USD (OUSD) on Solana, returning reserve yield to businesses instead of the issuer. Circle shares slipped 13% on the news; Tether's CEO called it 'Player 2.'",
+      "source": "Fortune / CoinGeek"
     },
     {
-      "headline": "EU MiCA transitional period ends, full authorization now required",
-      "summary": "As of July 1, every Crypto-Asset Service Provider in the EU must hold full MiCA authorization or shut down; penalties reach 10% of global turnover or €10M, plus personal liability for senior managers.",
-      "source": "FinanceX Magazine"
+      "headline": "Revolut to delist USDT in Europe by August 31 over MiCA non-compliance",
+      "summary": "Tether has not sought MiCA licensing, forcing Revolut to drop USDT from EU listings while Circle's licensed USDC keeps its access, per MiCA rules effective July 1.",
+      "source": "Yahoo Finance"
     },
     {
-      "headline": "GENIUS Act rulemaking deadline looms July 18",
-      "summary": "Six U.S. federal agencies tasked with finalizing stablecoin rules under the GENIUS Act have until July 18 to publish the joint regulatory framework.",
-      "source": "Office of the Comptroller of the Currency"
+      "headline": "GENIUS Act stablecoin rules due July 18 as agencies race final rulemaking",
+      "summary": "OCC, FDIC, Treasury, FinCEN, OFAC and the Fed must finalize stablecoin issuer rules by the one-year statutory deadline; comment periods closed June 9 with the Fed's proposal still outstanding.",
+      "source": "crypto.news / OCC"
     },
     {
-      "headline": "Tether launches stablecoin wallet; Circle's Arc chain moves to proof-of-stake",
-      "summary": "Tether rolled out its own consumer stablecoin wallet while Circle continued transitioning its Arc chain to a proof-of-stake consensus model.",
-      "source": "CoinGeek"
+      "headline": "Circle expands USDC access via Standard Chartered, mints $250M on Solana",
+      "summary": "Circle enabled institutional USDC minting and redemption for Standard Chartered clients and minted an additional 250 million USDC on Solana this week.",
+      "source": "CoinDesk"
     }
   ],
   "hack_items": [
     {
-      "headline": "KelpDAO exploit hits $294M, among 2026's largest",
-      "summary": "Investigators describe the KelpDAO breach as a sophisticated, state-directed operation exploiting infrastructure rather than a simple smart-contract bug.",
+      "headline": "H1 2026 crypto hacks hit record 207 incidents, $972M stolen",
+      "summary": "Despite more frequent attacks, total losses fell versus prior years; North Korea-linked groups accounted for roughly 66% ($643M) of all funds stolen in the first half of 2026.",
+      "source": "TRM Labs / Crowdfund Insider"
+    },
+    {
+      "headline": "Drift Protocol exploit remains the largest hack of 2026 at ~$285-295M",
+      "summary": "A Lazarus Group social-engineering campaign against Drift Protocol drained roughly $285-295 million, the single biggest crypto theft so far this year.",
       "source": "CryptoPotato"
     },
     {
-      "headline": "Drift Protocol breach drains roughly $285M",
-      "summary": "TRM Labs attributes the Drift Protocol loss to an infrastructure compromise; combined with KelpDAO, the two incidents account for nearly 59% of all H1 2026 crypto theft.",
-      "source": "Crowdfund Insider"
+      "headline": "KelpDAO loses $293M in cross-chain bridge exploit",
+      "summary": "Attackers exploited a LayerZero-based bridge flaw to drain 116,500 rsETH from Kelp DAO, ranking among 2026's largest DeFi exploits.",
+      "source": "CryptoPotato / 1inch"
     },
     {
-      "headline": "North Korea-linked groups tied to 66% of H1 2026 crypto theft",
-      "summary": "Crypto hacks hit record frequency in H1 2026, though total losses stayed just under $1B; DPRK-linked actors are estimated behind roughly $643M of that total.",
-      "source": "Crowdfund Insider"
-    },
-    {
-      "headline": "Coordinated attack drains 100+ EVM wallets for $107K",
-      "summary": "A mysterious, automated attack swept across EVM-compatible chains, draining small amounts from over 100 wallets in a pattern researchers are still tracing.",
-      "source": "Cointribune"
+      "headline": "Mystery attack drains hundreds of EVM wallets, root cause still unknown",
+      "summary": "On-chain investigator ZachXBT flagged an ongoing cross-chain wallet-draining campaign that has taken over $107K via suspected MetaMask phishing emails; no confirmed exploit vector yet.",
+      "source": "CoinPedia / CCN"
     }
   ]
 }

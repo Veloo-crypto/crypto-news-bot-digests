@@ -19,7 +19,7 @@
     },
     {
       "type": "TextBlock",
-      "text": "Open USD (OUSD) \u2014 a new dollar stablecoin backed by 140+ firms including Stripe, Visa, Mastercard, and BlackRock \u2014 went live on Solana this week, one of the biggest challenges yet to Tether and Circle's dominance.",
+      "text": "Stablecoin market cap hits a record ~$322B, now exceeding the FX reserves of 95 countries, as issuers race to comply with the GENIUS Act's July 18 rulemaking deadline.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Stripe, Visa, Mastercard, BlackRock launch rival stablecoin Open USD",
+      "text": "Stripe, Visa, BlackRock back new OUSD stablecoin to rival Tether and Circle",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A coalition of 140+ banks and fintechs launched Open USD (OUSD) on Solana, passing reserve yield back to businesses that mint and hold the token rather than keeping it as issuer profit.",
+      "text": "Open Standard, a coalition of 140+ businesses, launched Open USD (OUSD) on Solana, returning reserve yield to businesses instead of the issuer. Circle shares slipped 13% on the news; Tether's CEO called it 'Player 2.'",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "EU MiCA transitional period ends, full authorization now required",
+      "text": "Revolut to delist USDT in Europe by August 31 over MiCA non-compliance",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "As of July 1, every Crypto-Asset Service Provider in the EU must hold full MiCA authorization or shut down; penalties reach 10% of global turnover or \u20ac10M, plus personal liability for senior managers.",
+      "text": "Tether has not sought MiCA licensing, forcing Revolut to drop USDT from EU listings while Circle's licensed USDC keeps its access, per MiCA rules effective July 1.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act rulemaking deadline looms July 18",
+      "text": "GENIUS Act stablecoin rules due July 18 as agencies race final rulemaking",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six U.S. federal agencies tasked with finalizing stablecoin rules under the GENIUS Act have until July 18 to publish the joint regulatory framework.",
+      "text": "OCC, FDIC, Treasury, FinCEN, OFAC and the Fed must finalize stablecoin issuer rules by the one-year statutory deadline; comment periods closed June 9 with the Fed's proposal still outstanding.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Tether launches stablecoin wallet; Circle's Arc chain moves to proof-of-stake",
+      "text": "Circle expands USDC access via Standard Chartered, mints $250M on Solana",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Tether rolled out its own consumer stablecoin wallet while Circle continued transitioning its Arc chain to a proof-of-stake consensus model.",
+      "text": "Circle enabled institutional USDC minting and redemption for Standard Chartered clients and minted an additional 250 million USDC on Solana this week.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "KelpDAO exploit hits $294M, among 2026's largest",
+      "text": "H1 2026 crypto hacks hit record 207 incidents, $972M stolen",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Investigators describe the KelpDAO breach as a sophisticated, state-directed operation exploiting infrastructure rather than a simple smart-contract bug.",
+      "text": "Despite more frequent attacks, total losses fell versus prior years; North Korea-linked groups accounted for roughly 66% ($643M) of all funds stolen in the first half of 2026.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Drift Protocol breach drains roughly $285M",
+      "text": "Drift Protocol exploit remains the largest hack of 2026 at ~$285-295M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "TRM Labs attributes the Drift Protocol loss to an infrastructure compromise; combined with KelpDAO, the two incidents account for nearly 59% of all H1 2026 crypto theft.",
+      "text": "A Lazarus Group social-engineering campaign against Drift Protocol drained roughly $285-295 million, the single biggest crypto theft so far this year.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "North Korea-linked groups tied to 66% of H1 2026 crypto theft",
+      "text": "KelpDAO loses $293M in cross-chain bridge exploit",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Crypto hacks hit record frequency in H1 2026, though total losses stayed just under $1B; DPRK-linked actors are estimated behind roughly $643M of that total.",
+      "text": "Attackers exploited a LayerZero-based bridge flaw to drain 116,500 rsETH from Kelp DAO, ranking among 2026's largest DeFi exploits.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Coordinated attack drains 100+ EVM wallets for $107K",
+      "text": "Mystery attack drains hundreds of EVM wallets, root cause still unknown",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A mysterious, automated attack swept across EVM-compatible chains, draining small amounts from over 100 wallets in a pattern researchers are still tracing.",
+      "text": "On-chain investigator ZachXBT flagged an ongoing cross-chain wallet-draining campaign that has taken over $107K via suspected MetaMask phishing emails; no confirmed exploit vector yet.",
       "wrap": true,
       "size": "Small"
     }
