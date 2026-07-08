@@ -1,48 +1,16 @@
 {
-  "date": "July 7, 2026",
-  "market_note": "Stablecoin transaction volume hit a record $1.79T in June 2026, even as regulators race a July 18 deadline to finalize GENIUS Act rules.",
+  "date": "July 8, 2026",
+  "market_note": "Stablecoin market cap hit a record $322B in June (+29% YTD), while H1 2026 hack losses fell below $1B despite a record number of incidents.",
   "stablecoin_items": [
-    {
-      "headline": "140+ Firm Consortium Launches Open USD to Rival USDC",
-      "summary": "Stripe, Visa, Mastercard, Coinbase, BNY and Bank of America are among 140+ partners backing Open USD, a new dollar stablecoin that shares yield with businesses that mint and route it. It launches first on Solana, directly challenging Circle's $73.4B USDC.",
-      "source": "American Banker / Banking Dive"
-    },
-    {
-      "headline": "GENIUS Act Rulemaking Deadline Hits July 18",
-      "summary": "Six federal agencies tasked with finalizing GENIUS Act stablecoin rules have until July 18 to publish the joint framework, a key milestone for U.S. stablecoin oversight.",
-      "source": "Industry coverage"
-    },
-    {
-      "headline": "EU MiCA Transitional Period Ends",
-      "summary": "As of July 1, every Crypto-Asset Service Provider operating in the EU must hold full MiCA authorization or cease operations, tightening the bloc's stablecoin and crypto services regime.",
-      "source": "FinanceX Magazine"
-    },
-    {
-      "headline": "Stablecoin Volume Hits Record $1.79T in June",
-      "summary": "June's adjusted stablecoin transaction volume rose 63% month-over-month and 125% year-over-year, with USDC gaining ground on USDT amid new competitive launches.",
-      "source": "CoinDesk"
-    }
+    {"headline": "Open USD (OUSD) launches with 140+ partners", "summary": "Visa, Mastercard, Stripe, Coinbase and BlackRock backed the June 30 launch of a zero-fee-mint stablecoin; news of the launch sent Circle's stock down 16%.", "source": "CryptoRank / Yahoo Finance"},
+    {"headline": "USDC volume overtakes Tether", "summary": "Circle's USDC hit record trading volume of $1.79T, pulling ahead of Tether for the first time in this metric as competition in stablecoin rails intensifies.", "source": "CoinDesk"},
+    {"headline": "MiCA deadline triggers largest EU delisting wave", "summary": "The EU's MiCA transition period ended July 1; Coinbase, Kraken and Crypto.com restricted or delisted USDT for EU users, the biggest European stablecoin delisting event on record.", "source": "CoinDesk"},
+    {"headline": "GENIUS Act rulemaking deadline nears", "summary": "Six U.S. federal agencies have until July 18 to publish the finalized regulatory framework for permitted payment stablecoin issuers.", "source": "OCC"}
   ],
   "hack_items": [
-    {
-      "headline": "KelpDAO Exploit Ranks as 2026's Biggest Hack So Far",
-      "summary": "Attackers drained roughly $294M from KelpDAO in a sophisticated, state-directed operation involving infrastructure compromise rather than a simple contract bug, per TRM Labs.",
-      "source": "CryptoPotato"
-    },
-    {
-      "headline": "Drift Protocol Breach Adds ~$285M to 2026 Losses",
-      "summary": "A separate exploit hit Solana-based Drift Protocol for approximately $285M, reinforcing 2026's trend toward large, coordinated DeFi attacks over opportunistic bugs.",
-      "source": "DeFi Hacks 2026 report (Altfins/CCN)"
-    },
-    {
-      "headline": "North Korea-Linked Groups Behind 66% of H1 2026 Hack Losses",
-      "summary": "Crypto hacks hit record frequency in H1 2026, but total losses fell below $1B; North Korean-linked actors are tied to roughly $643M of that total, per TRM Labs.",
-      "source": "Crowdfund Insider"
-    },
-    {
-      "headline": "Trust Wallet Confirms 2,596 Wallets Drained for $7M",
-      "summary": "Trust Wallet disclosed a theft attack that drained 2,596 user wallets for a combined $7 million, adding to a wave of mass wallet-drain incidents across EVM chains this year.",
-      "source": "BleepingComputer"
-    }
+    {"headline": "BONK DAO governance hijack drains $20M", "summary": "On July 6 an attacker bought voting power and pushed through malicious proposal BIP #76, draining ~5% of BONK's total token supply from the community treasury.", "source": "Bloomingbit"},
+    {"headline": "KelpDAO exploit among H1's biggest at $294M", "summary": "The KelpDAO breach ranks as one of the two largest crypto hacks of H1 2026, together with the Drift Protocol hack accounting for nearly 59% of all funds stolen this year.", "source": "CryptoPotato"},
+    {"headline": "Same-block backrun extraction costs trader $2M", "summary": "GoPlus Security flagged a same-block price-discrepancy exploit where a trader swapping 1,126 ETH received a fraction of the expected token value.", "source": "KuCoin"},
+    {"headline": "Crypto hack count hits record high in H1 2026", "summary": "Incident frequency reached a record in H1 2026, though total losses fell sharply below $1B, suggesting smaller average payouts per attack.", "source": "Crowdfund Insider"}
   ]
 }
