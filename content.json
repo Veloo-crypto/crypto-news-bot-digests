@@ -1,16 +1,16 @@
 {
-  "date": "July 8, 2026",
-  "market_note": "Stablecoin market cap hit a record $322B in June (+29% YTD), while H1 2026 hack losses fell below $1B despite a record number of incidents.",
+  "date": "July 10, 2026",
+  "market_note": "Stablecoin transfers hit a record $1.79T in June as USDC's volume share widened to ~70%; six federal agencies face a July 18 deadline to finalize GENIUS Act rules.",
   "stablecoin_items": [
-    {"headline": "Open USD (OUSD) launches with 140+ partners", "summary": "Visa, Mastercard, Stripe, Coinbase and BlackRock backed the June 30 launch of a zero-fee-mint stablecoin; news of the launch sent Circle's stock down 16%.", "source": "CryptoRank / Yahoo Finance"},
-    {"headline": "USDC volume overtakes Tether", "summary": "Circle's USDC hit record trading volume of $1.79T, pulling ahead of Tether for the first time in this metric as competition in stablecoin rails intensifies.", "source": "CoinDesk"},
-    {"headline": "MiCA deadline triggers largest EU delisting wave", "summary": "The EU's MiCA transition period ended July 1; Coinbase, Kraken and Crypto.com restricted or delisted USDT for EU users, the biggest European stablecoin delisting event on record.", "source": "CoinDesk"},
-    {"headline": "GENIUS Act rulemaking deadline nears", "summary": "Six U.S. federal agencies have until July 18 to publish the finalized regulatory framework for permitted payment stablecoin issuers.", "source": "OCC"}
+    {"headline": "Open USD (OUSD) launches with 140+ backers", "summary": "A new consortium stablecoin backed by Stripe, Visa, Mastercard, BlackRock, Coinbase and Google went live, with Stripe naming it the default stablecoin for Stripe-powered businesses.", "source": "Industry reports"},
+    {"headline": "GENIUS Act rulemaking deadline looms July 18", "summary": "Six U.S. federal agencies must publish final implementing rules for the GENIUS Act stablecoin law by July 18, shaping issuer reserve and licensing requirements.", "source": "Federal regulatory filings"},
+    {"headline": "USDC extends lead over USDT in volume race", "summary": "Circle's USDC captured roughly 70% of adjusted stablecoin transaction volume in H1 2026 versus Tether's ~25%, as June volume hit a record $1.79 trillion.", "source": "CoinDesk"},
+    {"headline": "Stablecoin market cap slips $1.9B in a week", "summary": "Total stablecoin market cap fell to $311.3B, with Sky Dollar (USDS) leading the decline, down 2.36% to $8.02B amid capital outflows rather than a peg failure.", "source": "Bitcoin.com News"}
   ],
   "hack_items": [
-    {"headline": "BONK DAO governance hijack drains $20M", "summary": "On July 6 an attacker bought voting power and pushed through malicious proposal BIP #76, draining ~5% of BONK's total token supply from the community treasury.", "source": "Bloomingbit"},
-    {"headline": "KelpDAO exploit among H1's biggest at $294M", "summary": "The KelpDAO breach ranks as one of the two largest crypto hacks of H1 2026, together with the Drift Protocol hack accounting for nearly 59% of all funds stolen this year.", "source": "CryptoPotato"},
-    {"headline": "Same-block backrun extraction costs trader $2M", "summary": "GoPlus Security flagged a same-block price-discrepancy exploit where a trader swapping 1,126 ETH received a fraction of the expected token value.", "source": "KuCoin"},
-    {"headline": "Crypto hack count hits record high in H1 2026", "summary": "Incident frequency reached a record in H1 2026, though total losses fell sharply below $1B, suggesting smaller average payouts per attack.", "source": "Crowdfund Insider"}
+    {"headline": "Summer.fi drained for $6M in flash loan exploit", "summary": "An attacker manipulated Lazy Summer vault share accounting via a flash loan, briefly spiking displayed APY to 2,080,000% before withdrawing funds and swapping to DAI.", "source": "CoinDesk"},
+    {"headline": "White hats flag $70B systemic flaw in Aptos", "summary": "Security firm Hexens found a bug in Aptos with a near-90% exploit success rate and attack costs of just hundreds of dollars, patched before any funds were taken.", "source": "CoinDesk"},
+    {"headline": "H1 2026 hack losses hit $1.32B across 344 incidents", "summary": "Crypto projects lost about $1.32 billion in the first half of 2026; the Drift Protocol hack ($295M) was the largest single incident of the period.", "source": "DailyCoin"},
+    {"headline": "Humanity Protocol loses $30M to key compromise", "summary": "Attackers stole private keys backed up on a malware-infected developer machine, underscoring a shift toward compromised-credential attacks over smart contract bugs.", "source": "Halborn"}
   ]
 }
