@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 10, 2026",
+      "text": "July 13, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin transfers hit a record $1.79T in June as USDC's volume share widened to ~70%; six federal agencies face a July 18 deadline to finalize GENIUS Act rules.",
+      "text": "Six federal agencies must finalize GENIUS Act stablecoin rules by July 18; stablecoin market cap posted its biggest monthly drop in nearly four years in June even as transaction volume hit a record $1.79T.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Open USD (OUSD) launches with 140+ backers",
+      "text": "GENIUS Act rules due July 18",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A new consortium stablecoin backed by Stripe, Visa, Mastercard, BlackRock, Coinbase and Google went live, with Stripe naming it the default stablecoin for Stripe-powered businesses.",
+      "text": "Six federal agencies are finalizing stablecoin rules under the GENIUS Act; payment platforms like Stripe and Block must now charter a stablecoin bank or exit the market.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act rulemaking deadline looms July 18",
+      "text": "Circle wins OCC trust bank charter",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six U.S. federal agencies must publish final implementing rules for the GENIUS Act stablecoin law by July 18, shaping issuer reserve and licensing requirements.",
+      "text": "Circle received an OCC charter on July 10, letting it manage USDC reserves directly; shares surged as competition with Tether intensifies.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "USDC extends lead over USDT in volume race",
+      "text": "Stablecoin market cap posts biggest drop in 4 years",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle's USDC captured roughly 70% of adjusted stablecoin transaction volume in H1 2026 versus Tether's ~25%, as June volume hit a record $1.79 trillion.",
+      "text": "Total stablecoin market cap fell $7.7B in June, led by USDT and USDC declines, even as adjusted transaction volume hit a record $1.79T, up 63% month over month.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin market cap slips $1.9B in a week",
+      "text": "Ripple secures full MiCA authorization",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Total stablecoin market cap fell to $311.3B, with Sky Dollar (USDS) leading the decline, down 2.36% to $8.02B amid capital outflows rather than a peg failure.",
+      "text": "Luxembourg's CSSF granted Ripple full MiCA CASP authorization on July 6, enabling regulated stablecoin services across all 30 EEA countries.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Summer.fi drained for $6M in flash loan exploit",
+      "text": "Aptos flaw could have exposed $70B",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "An attacker manipulated Lazy Summer vault share accounting via a flash loan, briefly spiking displayed APY to 2,080,000% before withdrawing funds and swapping to DAI.",
+      "text": "White-hat firm Hexens found a critical Aptos flaw with a near-90% attack success rate that could have hit stablecoins and cross-chain bridges; a validator patch shipped before public disclosure, so no funds were lost.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "White hats flag $70B systemic flaw in Aptos",
+      "text": "'Ill Bloom' exploit drains $5M+ from wallets",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Security firm Hexens found a bug in Aptos with a near-90% exploit success rate and attack costs of just hundreds of dollars, patched before any funds were taken.",
+      "text": "Attackers exploited a vulnerability dubbed 'Ill Bloom' to drain more than $5 million from cryptocurrency wallets in recent days.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "H1 2026 hack losses hit $1.32B across 344 incidents",
+      "text": "H1 2026 hack losses top $950M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Crypto projects lost about $1.32 billion in the first half of 2026; the Drift Protocol hack ($295M) was the largest single incident of the period.",
+      "text": "Crypto platforms suffered 207 publicly reported attacks in H1 2026 totaling roughly $955M-$972M in losses, with North Korea-linked hackers responsible for about 66% of stolen funds.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Humanity Protocol loses $30M to key compromise",
+      "text": "Humanity Protocol breach traced to malware",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Attackers stole private keys backed up on a malware-infected developer machine, underscoring a shift toward compromised-credential attacks over smart contract bugs.",
+      "text": "June's Humanity Protocol hack, which cost over $30M, stemmed from private keys backed up on a malware-infected developer machine.",
       "wrap": true,
       "size": "Small"
     }
