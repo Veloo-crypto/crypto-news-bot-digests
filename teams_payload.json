@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 13, 2026",
+      "text": "July 14, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Six federal agencies must finalize GENIUS Act stablecoin rules by July 18; stablecoin market cap posted its biggest monthly drop in nearly four years in June even as transaction volume hit a record $1.79T.",
+      "text": "Stripe, Visa and 140+ firms launched rival stablecoin OUSD, sending Circle's stock down 13%, while the EU's MiCA transition deadline left ~83% of unlicensed providers unable to serve the bloc.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act rules due July 18",
+      "text": "Stripe, Visa and 140+ firms launch OUSD to rival Tether and Circle",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six federal agencies are finalizing stablecoin rules under the GENIUS Act; payment platforms like Stripe and Block must now charter a stablecoin bank or exit the market.",
+      "text": "The new Open USD stablecoin marks the biggest competitive threat yet to USDT/USDC dominance; Circle shares fell 13% on the news while Tether's CEO called it \"Player 2 entering the game.\"",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Circle wins OCC trust bank charter",
+      "text": "GENIUS Act final rules due July 18 with $5M capital floor",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle received an OCC charter on July 10, letting it manage USDC reserves directly; shares surged as competition with Tether intensifies.",
+      "text": "Six federal agencies are finalizing U.S. stablecoin rules requiring issuers like Stripe and Block to either raise $5M in dedicated capital and charter a stablecoin bank, or exit the market.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin market cap posts biggest drop in 4 years",
+      "text": "EU's MiCA transitional period ends, ~83% of CASPs still unlicensed",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Total stablecoin market cap fell $7.7B in June, led by USDT and USDC declines, even as adjusted transaction volume hit a record $1.79T, up 63% month over month.",
+      "text": "As of July 1, crypto-asset service providers without full MiCA authorisation can no longer legally serve EU clients; only 244 firms held full authorization, facing fines up to 12.5% of global turnover if non-compliant.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Ripple secures full MiCA authorization",
+      "text": "Stablecoin market cap posts biggest monthly drop since Terra-Luna",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Luxembourg's CSSF granted Ripple full MiCA CASP authorization on July 6, enabling regulated stablecoin services across all 30 EEA countries.",
+      "text": "Total stablecoin market cap fell $7.7B in June, with USDT dropping from $190B to ~$184B and USDC from $80B to ~$73B since March; analysts see no cause for panic yet.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Aptos flaw could have exposed $70B",
+      "text": "Bonzo Lend loses $9M in oracle exploit",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "White-hat firm Hexens found a critical Aptos flaw with a near-90% attack success rate that could have hit stablecoins and cross-chain bridges; a validator patch shipped before public disclosure, so no funds were lost.",
+      "text": "The Hedera-based lending protocol paused operations on July 11 after an oracle manipulation exploit drained roughly $9 million.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "'Ill Bloom' exploit drains $5M+ from wallets",
+      "text": "BonkDAO governance attack drains $20M treasury",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Attackers exploited a vulnerability dubbed 'Ill Bloom' to drain more than $5 million from cryptocurrency wallets in recent days.",
+      "text": "An attacker spent $4.4M to buy just over 1% of BONK supply, met quorum, and pushed a malicious proposal through with 99.9% \"yes\" votes on July 6-7, draining the DAO treasury; Upbit suspended BONK withdrawals as a precaution.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "H1 2026 hack losses top $950M",
+      "text": "Summer.fi hit for $6M in flash-loan exploit",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Crypto platforms suffered 207 publicly reported attacks in H1 2026 totaling roughly $955M-$972M in losses, with North Korea-linked hackers responsible for about 66% of stolen funds.",
+      "text": "PeckShield confirmed the DeFi protocol lost $6M in DAI on July 6; security firm Blockaid said funds were drained before warnings reached users.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Humanity Protocol breach traced to malware",
+      "text": "H1 2026 DeFi hacks top $955M, North Korea linked to 66%",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "June's Humanity Protocol hack, which cost over $30M, stemmed from private keys backed up on a malware-infected developer machine.",
+      "text": "Five major DeFi protocol breaches accounted for the bulk of $955.9M stolen in H1 2026; TRM Labs attributes roughly $643M (about two-thirds) to North Korean state-directed threat groups.",
       "wrap": true,
       "size": "Small"
     }

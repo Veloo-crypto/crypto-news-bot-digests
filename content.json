@@ -1,48 +1,48 @@
 {
-  "date": "July 13, 2026",
-  "market_note": "Six federal agencies must finalize GENIUS Act stablecoin rules by July 18; stablecoin market cap posted its biggest monthly drop in nearly four years in June even as transaction volume hit a record $1.79T.",
+  "date": "July 14, 2026",
+  "market_note": "Stripe, Visa and 140+ firms launched rival stablecoin OUSD, sending Circle's stock down 13%, while the EU's MiCA transition deadline left ~83% of unlicensed providers unable to serve the bloc.",
   "stablecoin_items": [
     {
-      "headline": "GENIUS Act rules due July 18",
-      "summary": "Six federal agencies are finalizing stablecoin rules under the GENIUS Act; payment platforms like Stripe and Block must now charter a stablecoin bank or exit the market.",
+      "headline": "Stripe, Visa and 140+ firms launch OUSD to rival Tether and Circle",
+      "summary": "The new Open USD stablecoin marks the biggest competitive threat yet to USDT/USDC dominance; Circle shares fell 13% on the news while Tether's CEO called it \"Player 2 entering the game.\"",
+      "source": "Fortune"
+    },
+    {
+      "headline": "GENIUS Act final rules due July 18 with $5M capital floor",
+      "summary": "Six federal agencies are finalizing U.S. stablecoin rules requiring issuers like Stripe and Block to either raise $5M in dedicated capital and charter a stablecoin bank, or exit the market.",
       "source": "Angel Investors Network"
     },
     {
-      "headline": "Circle wins OCC trust bank charter",
-      "summary": "Circle received an OCC charter on July 10, letting it manage USDC reserves directly; shares surged as competition with Tether intensifies.",
-      "source": "CNBC"
+      "headline": "EU's MiCA transitional period ends, ~83% of CASPs still unlicensed",
+      "summary": "As of July 1, crypto-asset service providers without full MiCA authorisation can no longer legally serve EU clients; only 244 firms held full authorization, facing fines up to 12.5% of global turnover if non-compliant.",
+      "source": "Elliptic / Helms Advisory"
     },
     {
-      "headline": "Stablecoin market cap posts biggest drop in 4 years",
-      "summary": "Total stablecoin market cap fell $7.7B in June, led by USDT and USDC declines, even as adjusted transaction volume hit a record $1.79T, up 63% month over month.",
+      "headline": "Stablecoin market cap posts biggest monthly drop since Terra-Luna",
+      "summary": "Total stablecoin market cap fell $7.7B in June, with USDT dropping from $190B to ~$184B and USDC from $80B to ~$73B since March; analysts see no cause for panic yet.",
       "source": "CoinDesk"
-    },
-    {
-      "headline": "Ripple secures full MiCA authorization",
-      "summary": "Luxembourg's CSSF granted Ripple full MiCA CASP authorization on July 6, enabling regulated stablecoin services across all 30 EEA countries.",
-      "source": "Company announcement"
     }
   ],
   "hack_items": [
     {
-      "headline": "Aptos flaw could have exposed $70B",
-      "summary": "White-hat firm Hexens found a critical Aptos flaw with a near-90% attack success rate that could have hit stablecoins and cross-chain bridges; a validator patch shipped before public disclosure, so no funds were lost.",
-      "source": "CoinDesk"
+      "headline": "Bonzo Lend loses $9M in oracle exploit",
+      "summary": "The Hedera-based lending protocol paused operations on July 11 after an oracle manipulation exploit drained roughly $9 million.",
+      "source": "NFT Plazas"
     },
     {
-      "headline": "'Ill Bloom' exploit drains $5M+ from wallets",
-      "summary": "Attackers exploited a vulnerability dubbed 'Ill Bloom' to drain more than $5 million from cryptocurrency wallets in recent days.",
-      "source": "The Hacker News"
+      "headline": "BonkDAO governance attack drains $20M treasury",
+      "summary": "An attacker spent $4.4M to buy just over 1% of BONK supply, met quorum, and pushed a malicious proposal through with 99.9% \"yes\" votes on July 6-7, draining the DAO treasury; Upbit suspended BONK withdrawals as a precaution.",
+      "source": "CoinDesk / The Record"
     },
     {
-      "headline": "H1 2026 hack losses top $950M",
-      "summary": "Crypto platforms suffered 207 publicly reported attacks in H1 2026 totaling roughly $955M-$972M in losses, with North Korea-linked hackers responsible for about 66% of stolen funds.",
-      "source": "Finbold / Chainalysis"
+      "headline": "Summer.fi hit for $6M in flash-loan exploit",
+      "summary": "PeckShield confirmed the DeFi protocol lost $6M in DAI on July 6; security firm Blockaid said funds were drained before warnings reached users.",
+      "source": "crypto.news"
     },
     {
-      "headline": "Humanity Protocol breach traced to malware",
-      "summary": "June's Humanity Protocol hack, which cost over $30M, stemmed from private keys backed up on a malware-infected developer machine.",
-      "source": "Halborn"
+      "headline": "H1 2026 DeFi hacks top $955M, North Korea linked to 66%",
+      "summary": "Five major DeFi protocol breaches accounted for the bulk of $955.9M stolen in H1 2026; TRM Labs attributes roughly $643M (about two-thirds) to North Korean state-directed threat groups.",
+      "source": "Finbold"
     }
   ]
 }
