@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 14, 2026",
+      "text": "July 15, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stripe, Visa and 140+ firms launched rival stablecoin OUSD, sending Circle's stock down 13%, while the EU's MiCA transition deadline left ~83% of unlicensed providers unable to serve the bloc.",
+      "text": "Stablecoin market cap has slipped ~$10B since its May peak as GENIUS Act rules near their July 18 finalization deadline.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Stripe, Visa and 140+ firms launch OUSD to rival Tether and Circle",
+      "text": "GENIUS Act rules due July 18",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "The new Open USD stablecoin marks the biggest competitive threat yet to USDT/USDC dominance; Circle shares fell 13% on the news while Tether's CEO called it \"Player 2 entering the game.\"",
+      "text": "Six federal agencies are in the final stretch to finalize GENIUS Act stablecoin rules by the July 18 statutory deadline, including a $5M capital floor for issuers.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act final rules due July 18 with $5M capital floor",
+      "text": "Circle wins OCC bank charter",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six federal agencies are finalizing U.S. stablecoin rules requiring issuers like Stripe and Block to either raise $5M in dedicated capital and charter a stablecoin bank, or exit the market.",
+      "text": "Circle received OCC approval to operate as a national trust bank, letting it directly manage USDC reserves; shares surged on the news.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "EU's MiCA transitional period ends, ~83% of CASPs still unlicensed",
+      "text": "Visa, BlackRock back rival 'Open USD' stablecoin",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "As of July 1, crypto-asset service providers without full MiCA authorisation can no longer legally serve EU clients; only 244 firms held full authorization, facing fines up to 12.5% of global turnover if non-compliant.",
+      "text": "Over 140 companies launched a fee-free, shared-governance dollar stablecoin, prompting Circle's stock to fall more than 10% on competitive concerns.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin market cap posts biggest monthly drop since Terra-Luna",
+      "text": "Stablecoin market cap contracts $10B since May",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Total stablecoin market cap fell $7.7B in June, with USDT dropping from $190B to ~$184B and USDC from $80B to ~$73B since March; analysts see no cause for panic yet.",
+      "text": "Total stablecoin supply is down roughly 3% from its peak; analysts say the pullback is mild compared to prior bear-market contractions.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Bonzo Lend loses $9M in oracle exploit",
+      "text": "'Ill Bloom' flaw drains $5M+ from wallets",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "The Hedera-based lending protocol paused operations on July 11 after an oracle manipulation exploit drained roughly $9 million.",
+      "text": "Coinspect disclosed a weak-randomness bug in recovery-phrase generation across five wallet implementations; confirmed losses now exceed $5 million.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "BonkDAO governance attack drains $20M treasury",
+      "text": "Hundreds of MetaMask/EVM wallets drained",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "An attacker spent $4.4M to buy just over 1% of BONK supply, met quorum, and pushed a malicious proposal through with 99.9% \"yes\" votes on July 6-7, draining the DAO treasury; Upbit suspended BONK withdrawals as a precaution.",
+      "text": "A wave of fake 'wallet update' prompts tricked users into signing malicious transactions, draining hundreds of EVM-based wallets.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Summer.fi hit for $6M in flash-loan exploit",
+      "text": "White-hat researchers flag $70B Aptos risk",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "PeckShield confirmed the DeFi protocol lost $6M in DAI on July 6; security firm Blockaid said funds were drained before warnings reached users.",
+      "text": "Hexens researchers found an Aptos consensus flaw with a near-90% exploit success rate and attack costs of just hundreds of dollars; patched before abuse.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "H1 2026 DeFi hacks top $955M, North Korea linked to 66%",
+      "text": "Q2 2026 named worst quarter ever for crypto hacks",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Five major DeFi protocol breaches accounted for the bulk of $955.9M stolen in H1 2026; TRM Labs attributes roughly $643M (about two-thirds) to North Korean state-directed threat groups.",
+      "text": "Crypto losses hit a record 70 separate exploits in Q2, per new industry data, even as total dollar losses stayed below prior-year peaks.",
       "wrap": true,
       "size": "Small"
     }
