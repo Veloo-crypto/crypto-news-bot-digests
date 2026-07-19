@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 15, 2026",
+      "text": "July 19, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin market cap has slipped ~$10B since its May peak as GENIUS Act rules near their July 18 finalization deadline.",
+      "text": "Stablecoin supply has fallen $10B from its May peak as USDT and USDC contracted amid the broader market selloff, even as the GENIUS Act's July 18 rulemaking deadline passed with no federal agency issuing final rules.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act rules due July 18",
+      "text": "GENIUS Act Rulemaking Deadline Passes Without Final Rules",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six federal agencies are in the final stretch to finalize GENIUS Act stablecoin rules by the July 18 statutory deadline, including a $5M capital floor for issuers.",
+      "text": "The six federal agencies tasked with finalizing capital, reserve, and licensing rules for USDC and USAT issuers missed their July 18 deadline, with several still in public comment. Markets are treating it as a checkpoint, not a resolution.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Circle wins OCC bank charter",
+      "text": "Stablecoin Supply Contracts $10B From May Peak",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle received OCC approval to operate as a national trust bank, letting it directly manage USDC reserves; shares surged on the news.",
+      "text": "USDT and USDC both shrank as the wider crypto market slid roughly 3% this cycle, though stablecoins have outperformed major Layer-1 tokens like ETH and SOL, which are down about 45%.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Visa, BlackRock back rival 'Open USD' stablecoin",
+      "text": "Mastercard, Bank of America Push On-Chain Settlement",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Over 140 companies launched a fee-free, shared-governance dollar stablecoin, prompting Circle's stock to fall more than 10% on competitive concerns.",
+      "text": "Mastercard extended card settlement onto on-chain rails and Open Standard launched a 140-partner dollar stablecoin, while Bank of America teased instant cross-border real-time payments built on stablecoin rails.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin market cap contracts $10B since May",
+      "text": "South Korea Launches First Government-Backed Stablecoin Pilot",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Total stablecoin supply is down roughly 3% from its peak; analysts say the pullback is mild compared to prior bear-market contractions.",
+      "text": "Gyeonggi Province confirmed an eight-month proof-of-concept for a government-backed blockchain stablecoin, set to begin in August 2026.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "'Ill Bloom' flaw drains $5M+ from wallets",
+      "text": "White Hats Find Aptos Flaw That Could've Risked $70B",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Coinspect disclosed a weak-randomness bug in recovery-phrase generation across five wallet implementations; confirmed losses now exceed $5 million.",
+      "text": "Security firm Hexens discovered and helped patch a critical Aptos blockchain vulnerability with a near-90% exploit success rate and an attack cost of just hundreds of dollars, threatening stablecoins and cross-chain bridges.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Hundreds of MetaMask/EVM wallets drained",
+      "text": "Drift Protocol Hack Named Biggest of H1 2026 at $295M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A wave of fake 'wallet update' prompts tricked users into signing malicious transactions, draining hundreds of EVM-based wallets.",
+      "text": "The Solana-based DeFi exchange suffered the largest single crypto exploit of the first half of 2026, part of a record 207 hacking incidents industry-wide.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "White-hat researchers flag $70B Aptos risk",
+      "text": "Infrastructure Compromises Drove 76% of H1 2026 Losses",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Hexens researchers found an Aptos consensus flaw with a near-90% exploit success rate and attack costs of just hundreds of dollars; patched before abuse.",
+      "text": "Attacks on signing infrastructure and operational credentials caused the large majority of stolen funds despite accounting for only about 15% of all incidents, TRM Labs found.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Q2 2026 named worst quarter ever for crypto hacks",
+      "text": "North Korea Linked to 66% of H1 2026 Stolen Crypto Funds",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Crypto losses hit a record 70 separate exploits in Q2, per new industry data, even as total dollar losses stayed below prior-year peaks.",
+      "text": "Roughly $643 million of the nearly $972 million stolen across crypto platforms in H1 2026 is attributed to North Korea-linked hacking groups, per TRM Labs.",
       "wrap": true,
       "size": "Small"
     }
