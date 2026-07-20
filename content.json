@@ -1,48 +1,48 @@
 {
-  "date": "July 19, 2026",
-  "market_note": "Stablecoin supply has fallen $10B from its May peak as USDT and USDC contracted amid the broader market selloff, even as the GENIUS Act's July 18 rulemaking deadline passed with no federal agency issuing final rules.",
+  "date": "July 20, 2026",
+  "market_note": "Six federal agencies (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) missed the July 18 statutory deadline to finalize GENIUS Act stablecoin rules, leaving reserve and AML standards unsettled a year after passage.",
   "stablecoin_items": [
     {
-      "headline": "GENIUS Act Rulemaking Deadline Passes Without Final Rules",
-      "summary": "The six federal agencies tasked with finalizing capital, reserve, and licensing rules for USDC and USAT issuers missed their July 18 deadline, with several still in public comment. Markets are treating it as a checkpoint, not a resolution.",
-      "source": "CryptoSlate"
+      "headline": "GENIUS Act rulemaking deadline missed",
+      "summary": "As of July 19, none of the six federal regulators had finalized implementing rules for the GENIUS Act, one year after it was signed into law.",
+      "source": "CoinDesk"
     },
     {
-      "headline": "Stablecoin Supply Contracts $10B From May Peak",
-      "summary": "USDT and USDC both shrank as the wider crypto market slid roughly 3% this cycle, though stablecoins have outperformed major Layer-1 tokens like ETH and SOL, which are down about 45%.",
-      "source": "Kraken Blog"
+      "headline": "Circle wins OCC trust bank charter",
+      "summary": "The OCC approved Circle to operate as a national trust bank, letting it manage USDC reserves (over $73B in circulation) directly; shares jumped on the news.",
+      "source": "CNBC"
     },
     {
-      "headline": "Mastercard, Bank of America Push On-Chain Settlement",
-      "summary": "Mastercard extended card settlement onto on-chain rails and Open Standard launched a 140-partner dollar stablecoin, while Bank of America teased instant cross-border real-time payments built on stablecoin rails.",
-      "source": "a16z crypto"
+      "headline": "Visa launches stablecoin platform for banks",
+      "summary": "Visa unveiled the Visa Stablecoin Platform, letting financial firms issue and manage stablecoins; it will initially back Open USD, a new coin from a 140+ member consortium including Stripe and Mastercard.",
+      "source": "Bloomberg / Fortune"
     },
     {
-      "headline": "South Korea Launches First Government-Backed Stablecoin Pilot",
-      "summary": "Gyeonggi Province confirmed an eight-month proof-of-concept for a government-backed blockchain stablecoin, set to begin in August 2026.",
-      "source": "crypto.news"
+      "headline": "Stablecoin volume tops $7.5T, passes ACH",
+      "summary": "On-chain stablecoin settlement volume climbed past the U.S. ACH network, with market cap now around $316.7B, underscoring stablecoins' shift into mainstream payment rails.",
+      "source": "Forbes"
     }
   ],
   "hack_items": [
     {
-      "headline": "White Hats Find Aptos Flaw That Could've Risked $70B",
-      "summary": "Security firm Hexens discovered and helped patch a critical Aptos blockchain vulnerability with a near-90% exploit success rate and an attack cost of just hundreds of dollars, threatening stablecoins and cross-chain bridges.",
+      "headline": "Ostium hit by $18M oracle exploit",
+      "summary": "An attacker abused a registered price-feed forwarder on the Arbitrum-based RWA perps exchange Ostium to fake trade profits, draining about $18M in USDC on July 15.",
       "source": "CoinDesk"
     },
     {
-      "headline": "Drift Protocol Hack Named Biggest of H1 2026 at $295M",
-      "summary": "The Solana-based DeFi exchange suffered the largest single crypto exploit of the first half of 2026, part of a record 207 hacking incidents industry-wide.",
-      "source": "TRM Labs"
+      "headline": "Across Protocol suffers first Solana-side attack",
+      "summary": "Across paused and then restored Solana deposits after its first-ever attack on that chain; no user funds were lost, with relayer losses absorbed by Risk Labs.",
+      "source": "CryptoTimes"
     },
     {
-      "headline": "Infrastructure Compromises Drove 76% of H1 2026 Losses",
-      "summary": "Attacks on signing infrastructure and operational credentials caused the large majority of stolen funds despite accounting for only about 15% of all incidents, TRM Labs found.",
-      "source": "TRM Labs"
+      "headline": "Cascade and DeFiTuna add to $20M weekly loss tally",
+      "summary": "A locked-fund drain at Cascade and a Solana lending shortfall at DeFiTuna pushed the week's confirmed DeFi damage above $20M across four separate incidents.",
+      "source": "CryptoTimes"
     },
     {
-      "headline": "North Korea Linked to 66% of H1 2026 Stolen Crypto Funds",
-      "summary": "Roughly $643 million of the nearly $972 million stolen across crypto platforms in H1 2026 is attributed to North Korea-linked hacking groups, per TRM Labs.",
-      "source": "TRM Labs"
+      "headline": "Ethical hackers flag $70B Aptos risk",
+      "summary": "Security firm Hexens disclosed a now-patched Aptos consensus flaw that could have been exploited for under $1,000 with a near-90% success rate, putting billions in assets and bridges at theoretical risk.",
+      "source": "CoinDesk"
     }
   ]
 }
