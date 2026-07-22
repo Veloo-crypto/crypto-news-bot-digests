@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 20, 2026",
+      "text": "July 22, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Six federal agencies (OCC, FDIC, NCUA, Treasury, FinCEN, OFAC) missed the July 18 statutory deadline to finalize GENIUS Act stablecoin rules, leaving reserve and AML standards unsettled a year after passage.",
+      "text": "Stablecoin on-chain volume has hit $7.5T with market cap at $316.7B, as GENIUS Act capital, reserve and licensing rules for issuers were finalized on July 18.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,37 @@
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act rulemaking deadline missed",
+      "text": "GENIUS Act stablecoin rulemaking deadline lands",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "As of July 19, none of the six federal regulators had finalized implementing rules for the GENIUS Act, one year after it was signed into law.",
+      "text": "Six federal agencies finalized capital, reserve, and licensing rules for USDC, USDT and other issuers on July 18, setting the regulatory bar for compliant stablecoins.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Circle wins OCC trust bank charter",
+      "text": "Tether risks USDT delisting from US exchanges",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "The OCC approved Circle to operate as a national trust bank, letting it manage USDC reserves (over $73B in circulation) directly; shares jumped on the news.",
+      "text": "About 25% of USDT reserves remain non-compliant with GENIUS Act cash-and-Treasuries requirements; full delisting from US exchanges looms by 2028 if unresolved.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Visa launches stablecoin platform for banks",
+      "text": "USDC overtakes USDT in transaction volume",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Visa unveiled the Visa Stablecoin Platform, letting financial firms issue and manage stablecoins; it will initially back Open USD, a new coin from a 140+ member consortium including Stripe and Mastercard.",
-      "wrap": true,
-      "size": "Small"
-    },
-    {
-      "type": "TextBlock",
-      "text": "Stablecoin volume tops $7.5T, passes ACH",
-      "wrap": true,
-      "weight": "Bolder"
-    },
-    {
-      "type": "TextBlock",
-      "text": "On-chain stablecoin settlement volume climbed past the U.S. ACH network, with market cap now around $316.7B, underscoring stablecoins' shift into mainstream payment rails.",
+      "text": "Circle's USDC captured ~70% of adjusted stablecoin transaction volume in H1 2026 versus Tether's ~25%, aided by Circle's new OCC national trust bank approval.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +80,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Ostium hit by $18M oracle exploit",
+      "text": "Wanchain Cardano-BNB bridge drained of $10M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "An attacker abused a registered price-feed forwarder on the Arbitrum-based RWA perps exchange Ostium to fake trade profits, draining about $18M in USDC on July 15.",
+      "text": "Attackers stole roughly 515.2M NIGHT tokens (~$10M) from Wanchain's bridge treasury in four transactions over an eight-minute window on July 21.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Across Protocol suffers first Solana-side attack",
+      "text": "Ostium oracle exploit nets $24M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Across paused and then restored Solana deposits after its first-ever attack on that chain; no user funds were lost, with relayer losses absorbed by Risk Labs.",
+      "text": "A compromised oracle private key let an attacker sign future-dated fake price reports, triggering a fraudulent ~$24M USDC payout from Ostium's RWA perps vault on Arbitrum.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Cascade and DeFiTuna add to $20M weekly loss tally",
+      "text": "'Ill Bloom' vulnerability drains over $5M from wallets",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A locked-fund drain at Cascade and a Solana lending shortfall at DeFiTuna pushed the week's confirmed DeFi damage above $20M across four separate incidents.",
+      "text": "A newly disclosed exploit chain dubbed 'Ill Bloom' has been used to siphon more than $5 million from cryptocurrency wallets in the past week.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Ethical hackers flag $70B Aptos risk",
+      "text": "Drift Protocol hit for $286M in suspected DPRK attack",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Security firm Hexens disclosed a now-patched Aptos consensus flaw that could have been exploited for under $1,000 with a near-90% success rate, putting billions in assets and bridges at theoretical risk.",
+      "text": "Blockchain analytics firm Elliptic linked a $286M exploit of Solana-based Drift Protocol to North Korea-affiliated threat actors, one of 2026's largest DeFi hacks.",
       "wrap": true,
       "size": "Small"
     }
