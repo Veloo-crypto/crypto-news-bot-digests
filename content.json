@@ -1,43 +1,48 @@
 {
-  "date": "July 22, 2026",
-  "market_note": "Stablecoin on-chain volume has hit $7.5T with market cap at $316.7B, as GENIUS Act capital, reserve and licensing rules for issuers were finalized on July 18.",
+  "date": "July 24, 2026",
+  "market_note": "USDC now commands ~70% of stablecoin transaction volume vs ~25% for USDT, as MiCA's July 1 deadline pushes EU exchanges to delist non-compliant USDT.",
   "stablecoin_items": [
     {
-      "headline": "GENIUS Act stablecoin rulemaking deadline lands",
-      "summary": "Six federal agencies finalized capital, reserve, and licensing rules for USDC, USDT and other issuers on July 18, setting the regulatory bar for compliant stablecoins.",
-      "source": "Kraken Blog"
+      "headline": "GENIUS Act capital/reserve rules due July 18",
+      "summary": "Six federal agencies are finalizing GENIUS Act stablecoin rules, with the OCC setting a $5M capital floor and the FDIC confirming no deposit insurance applies to token holders.",
+      "source": "BlockEden / Kraken Blog"
     },
     {
-      "headline": "Tether risks USDT delisting from US exchanges",
-      "summary": "About 25% of USDT reserves remain non-compliant with GENIUS Act cash-and-Treasuries requirements; full delisting from US exchanges looms by 2028 if unresolved.",
-      "source": "The Coin Republic"
+      "headline": "EU exchanges restrict USDT after MiCA deadline",
+      "summary": "Binance, Kraken, Coinbase and others have delisted or restricted USDT for EU users since MiCA's July 1 transitional deadline ended; Revolut will drop USDT for EEA/Swiss users by Aug 31.",
+      "source": "Crowdfund Insider"
     },
     {
       "headline": "USDC overtakes USDT in transaction volume",
-      "summary": "Circle's USDC captured ~70% of adjusted stablecoin transaction volume in H1 2026 versus Tether's ~25%, aided by Circle's new OCC national trust bank approval.",
-      "source": "CoinDesk / Yahoo Finance"
+      "summary": "Circle's USDC drove ~70% of adjusted stablecoin transaction volume in H1 2026 versus ~25% for Tether's USDT, per JPMorgan and industry data, as stablecoin volume hits record $1.79T.",
+      "source": "The Block / Yahoo Finance"
+    },
+    {
+      "headline": "UK finalizes systemic stablecoin oversight plan",
+      "summary": "The Bank of England and FCA are building a two-tier UK regime: FCA oversight for all qualifying stablecoins, plus joint supervision for issuers deemed systemic; consultation closes Sept 22.",
+      "source": "Bloomberg Professional Services"
     }
   ],
   "hack_items": [
     {
-      "headline": "Wanchain Cardano-BNB bridge drained of $10M",
-      "summary": "Attackers stole roughly 515.2M NIGHT tokens (~$10M) from Wanchain's bridge treasury in four transactions over an eight-minute window on July 21.",
-      "source": "CryptoTimes"
+      "headline": "\"Hackers' Day\": three DeFi exploits, $35.55M lost",
+      "summary": "AFX Trade (Arbitrum perps DEX) lost $24.15M, VerusCoin's Ethereum bridge lost $7.54M, and B² Network lost $3.86M in separate attacks within hours on July 23.",
+      "source": "CryptoTimes / CoinDesk"
     },
     {
-      "headline": "Ostium oracle exploit nets $24M",
-      "summary": "A compromised oracle private key let an attacker sign future-dated fake price reports, triggering a fraudulent ~$24M USDC payout from Ostium's RWA perps vault on Arbitrum.",
-      "source": "Halborn / PeckShield"
+      "headline": "Verus Ethereum bridge drained again via old exploit path",
+      "summary": "Attackers reused the same import-path vulnerability weaponized in May to steal $7.54M from the Verus Ethereum Bridge, its second breach in just over two months.",
+      "source": "crypto.news"
     },
     {
-      "headline": "'Ill Bloom' vulnerability drains over $5M from wallets",
-      "summary": "A newly disclosed exploit chain dubbed 'Ill Bloom' has been used to siphon more than $5 million from cryptocurrency wallets in the past week.",
-      "source": "The Hacker News"
+      "headline": "B² Network loses $3.86M to upgrade-authority hijack",
+      "summary": "An attacker seized upgrade authority over B² Network's staking contract, draining roughly $3.86M in the third \"Hackers' Day\" incident.",
+      "source": "KuCoin News"
     },
     {
-      "headline": "Drift Protocol hit for $286M in suspected DPRK attack",
-      "summary": "Blockchain analytics firm Elliptic linked a $286M exploit of Solana-based Drift Protocol to North Korea-affiliated threat actors, one of 2026's largest DeFi hacks.",
-      "source": "Elliptic"
+      "headline": "Ostium hit for up to $24M via oracle key compromise",
+      "summary": "Arbitrum-based perpetuals exchange Ostium suffered an oracle manipulation exploit after an attacker compromised a price-oracle private key, pushing fake future-dated price signs onchain.",
+      "source": "Halborn"
     }
   ]
 }

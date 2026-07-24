@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 22, 2026",
+      "text": "July 24, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin on-chain volume has hit $7.5T with market cap at $316.7B, as GENIUS Act capital, reserve and licensing rules for issuers were finalized on July 18.",
+      "text": "USDC now commands ~70% of stablecoin transaction volume vs ~25% for USDT, as MiCA's July 1 deadline pushes EU exchanges to delist non-compliant USDT.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,25 +35,25 @@
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act stablecoin rulemaking deadline lands",
+      "text": "GENIUS Act capital/reserve rules due July 18",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six federal agencies finalized capital, reserve, and licensing rules for USDC, USDT and other issuers on July 18, setting the regulatory bar for compliant stablecoins.",
+      "text": "Six federal agencies are finalizing GENIUS Act stablecoin rules, with the OCC setting a $5M capital floor and the FDIC confirming no deposit insurance applies to token holders.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Tether risks USDT delisting from US exchanges",
+      "text": "EU exchanges restrict USDT after MiCA deadline",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "About 25% of USDT reserves remain non-compliant with GENIUS Act cash-and-Treasuries requirements; full delisting from US exchanges looms by 2028 if unresolved.",
+      "text": "Binance, Kraken, Coinbase and others have delisted or restricted USDT for EU users since MiCA's July 1 transitional deadline ended; Revolut will drop USDT for EEA/Swiss users by Aug 31.",
       "wrap": true,
       "size": "Small"
     },
@@ -65,7 +65,19 @@
     },
     {
       "type": "TextBlock",
-      "text": "Circle's USDC captured ~70% of adjusted stablecoin transaction volume in H1 2026 versus Tether's ~25%, aided by Circle's new OCC national trust bank approval.",
+      "text": "Circle's USDC drove ~70% of adjusted stablecoin transaction volume in H1 2026 versus ~25% for Tether's USDT, per JPMorgan and industry data, as stablecoin volume hits record $1.79T.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "UK finalizes systemic stablecoin oversight plan",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "The Bank of England and FCA are building a two-tier UK regime: FCA oversight for all qualifying stablecoins, plus joint supervision for issuers deemed systemic; consultation closes Sept 22.",
       "wrap": true,
       "size": "Small"
     },
@@ -80,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Wanchain Cardano-BNB bridge drained of $10M",
+      "text": "\"Hackers' Day\": three DeFi exploits, $35.55M lost",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Attackers stole roughly 515.2M NIGHT tokens (~$10M) from Wanchain's bridge treasury in four transactions over an eight-minute window on July 21.",
+      "text": "AFX Trade (Arbitrum perps DEX) lost $24.15M, VerusCoin's Ethereum bridge lost $7.54M, and B\u00b2 Network lost $3.86M in separate attacks within hours on July 23.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Ostium oracle exploit nets $24M",
+      "text": "Verus Ethereum bridge drained again via old exploit path",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A compromised oracle private key let an attacker sign future-dated fake price reports, triggering a fraudulent ~$24M USDC payout from Ostium's RWA perps vault on Arbitrum.",
+      "text": "Attackers reused the same import-path vulnerability weaponized in May to steal $7.54M from the Verus Ethereum Bridge, its second breach in just over two months.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "'Ill Bloom' vulnerability drains over $5M from wallets",
+      "text": "B\u00b2 Network loses $3.86M to upgrade-authority hijack",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A newly disclosed exploit chain dubbed 'Ill Bloom' has been used to siphon more than $5 million from cryptocurrency wallets in the past week.",
+      "text": "An attacker seized upgrade authority over B\u00b2 Network's staking contract, draining roughly $3.86M in the third \"Hackers' Day\" incident.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Drift Protocol hit for $286M in suspected DPRK attack",
+      "text": "Ostium hit for up to $24M via oracle key compromise",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Blockchain analytics firm Elliptic linked a $286M exploit of Solana-based Drift Protocol to North Korea-affiliated threat actors, one of 2026's largest DeFi hacks.",
+      "text": "Arbitrum-based perpetuals exchange Ostium suffered an oracle manipulation exploit after an attacker compromised a price-oracle private key, pushing fake future-dated price signs onchain.",
       "wrap": true,
       "size": "Small"
     }
