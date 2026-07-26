@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 24, 2026",
+      "text": "July 26, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "USDC now commands ~70% of stablecoin transaction volume vs ~25% for USDT, as MiCA's July 1 deadline pushes EU exchanges to delist non-compliant USDT.",
+      "text": "Stablecoin market cap tops $240B (USDT ~67%, USDC ~27%) as the GENIUS Act's July 18 rulemaking deadline passed without final rules from regulators.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act capital/reserve rules due July 18",
+      "text": "GENIUS Act rulemaking deadline missed",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six federal agencies are finalizing GENIUS Act stablecoin rules, with the OCC setting a $5M capital floor and the FDIC confirming no deposit insurance applies to token holders.",
+      "text": "Six federal agencies missed the July 18 statutory deadline to finalize GENIUS Act stablecoin rules; issuers still await final capital and charter requirements.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "EU exchanges restrict USDT after MiCA deadline",
+      "text": "Tether launches USAT for US compliance",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Binance, Kraken, Coinbase and others have delisted or restricted USDT for EU users since MiCA's July 1 transitional deadline ended; Revolut will drop USDT for EEA/Swiss users by Aug 31.",
+      "text": "Tether is rolling out USAT, a new US-domiciled stablecoin built for GENIUS Act compliance, while pursuing a foreign-issuer path for USDT itself.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "USDC overtakes USDT in transaction volume",
+      "text": "Stablecoin market cap passes $240B",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle's USDC drove ~70% of adjusted stablecoin transaction volume in H1 2026 versus ~25% for Tether's USDT, per JPMorgan and industry data, as stablecoin volume hits record $1.79T.",
+      "text": "Outstanding stablecoin supply now exceeds $240 billion, with Tether's USDT holding roughly 67% share and Circle's USDC around 27%.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "UK finalizes systemic stablecoin oversight plan",
+      "text": "Fidelity and Samsung push mainstream adoption",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "The Bank of England and FCA are building a two-tier UK regime: FCA oversight for all qualifying stablecoins, plus joint supervision for issuers deemed systemic; consultation closes Sept 22.",
+      "text": "Fidelity Digital Assets announced its first stablecoin, FIDD, on Ethereum, while Samsung said it will add native stablecoin support to Samsung Wallet.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "\"Hackers' Day\": three DeFi exploits, $35.55M lost",
+      "text": "AFX bridge exploit drains $24M on Arbitrum",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "AFX Trade (Arbitrum perps DEX) lost $24.15M, VerusCoin's Ethereum bridge lost $7.54M, and B\u00b2 Network lost $3.86M in separate attacks within hours on July 23.",
+      "text": "Attackers compromised five validator keys to hit quorum on an AFX-powered bridge, draining $24.15M in USDC and converting it to ETH (July 22).",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Verus Ethereum bridge drained again via old exploit path",
+      "text": "Triple-A hot wallets drained of $9.7M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Attackers reused the same import-path vulnerability weaponized in May to steal $7.54M from the Verus Ethereum Bridge, its second breach in just over two months.",
+      "text": "Crypto payments firm Triple-A had hot wallets across TRON, Ethereum, TON and Solana drained of roughly $9.7M in stablecoins and liquid assets (July 24-25).",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "B\u00b2 Network loses $3.86M to upgrade-authority hijack",
+      "text": "Lien Finance loses $542K in bond-pricing exploit",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "An attacker seized upgrade authority over B\u00b2 Network's staking contract, draining roughly $3.86M in the third \"Hackers' Day\" incident.",
+      "text": "Attackers manipulated bond pricing in Lien Finance's OTC pools on Ethereum to drain USDC liquidity on July 24.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Ostium hit for up to $24M via oracle key compromise",
+      "text": "\"Hackers' Day\" totals $35.5M across 3 exploits",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Arbitrum-based perpetuals exchange Ostium suffered an oracle manipulation exploit after an attacker compromised a price-oracle private key, pushing fake future-dated price signs onchain.",
+      "text": "On July 23, three separate DeFi exploits totaled $35.55M in losses, pushing the month's cumulative hack losses toward $100M.",
       "wrap": true,
       "size": "Small"
     }

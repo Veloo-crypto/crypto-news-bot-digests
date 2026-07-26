@@ -1,48 +1,48 @@
 {
-  "date": "July 24, 2026",
-  "market_note": "USDC now commands ~70% of stablecoin transaction volume vs ~25% for USDT, as MiCA's July 1 deadline pushes EU exchanges to delist non-compliant USDT.",
+  "date": "July 26, 2026",
+  "market_note": "Stablecoin market cap tops $240B (USDT ~67%, USDC ~27%) as the GENIUS Act's July 18 rulemaking deadline passed without final rules from regulators.",
   "stablecoin_items": [
     {
-      "headline": "GENIUS Act capital/reserve rules due July 18",
-      "summary": "Six federal agencies are finalizing GENIUS Act stablecoin rules, with the OCC setting a $5M capital floor and the FDIC confirming no deposit insurance applies to token holders.",
-      "source": "BlockEden / Kraken Blog"
+      "headline": "GENIUS Act rulemaking deadline missed",
+      "summary": "Six federal agencies missed the July 18 statutory deadline to finalize GENIUS Act stablecoin rules; issuers still await final capital and charter requirements.",
+      "source": "CoinDesk / Yahoo Finance"
     },
     {
-      "headline": "EU exchanges restrict USDT after MiCA deadline",
-      "summary": "Binance, Kraken, Coinbase and others have delisted or restricted USDT for EU users since MiCA's July 1 transitional deadline ended; Revolut will drop USDT for EEA/Swiss users by Aug 31.",
-      "source": "Crowdfund Insider"
+      "headline": "Tether launches USAT for US compliance",
+      "summary": "Tether is rolling out USAT, a new US-domiciled stablecoin built for GENIUS Act compliance, while pursuing a foreign-issuer path for USDT itself.",
+      "source": "Industry reporting"
     },
     {
-      "headline": "USDC overtakes USDT in transaction volume",
-      "summary": "Circle's USDC drove ~70% of adjusted stablecoin transaction volume in H1 2026 versus ~25% for Tether's USDT, per JPMorgan and industry data, as stablecoin volume hits record $1.79T.",
-      "source": "The Block / Yahoo Finance"
+      "headline": "Stablecoin market cap passes $240B",
+      "summary": "Outstanding stablecoin supply now exceeds $240 billion, with Tether's USDT holding roughly 67% share and Circle's USDC around 27%.",
+      "source": "Market data aggregators"
     },
     {
-      "headline": "UK finalizes systemic stablecoin oversight plan",
-      "summary": "The Bank of England and FCA are building a two-tier UK regime: FCA oversight for all qualifying stablecoins, plus joint supervision for issuers deemed systemic; consultation closes Sept 22.",
-      "source": "Bloomberg Professional Services"
+      "headline": "Fidelity and Samsung push mainstream adoption",
+      "summary": "Fidelity Digital Assets announced its first stablecoin, FIDD, on Ethereum, while Samsung said it will add native stablecoin support to Samsung Wallet.",
+      "source": "crypto.news"
     }
   ],
   "hack_items": [
     {
-      "headline": "\"Hackers' Day\": three DeFi exploits, $35.55M lost",
-      "summary": "AFX Trade (Arbitrum perps DEX) lost $24.15M, VerusCoin's Ethereum bridge lost $7.54M, and B² Network lost $3.86M in separate attacks within hours on July 23.",
-      "source": "CryptoTimes / CoinDesk"
+      "headline": "AFX bridge exploit drains $24M on Arbitrum",
+      "summary": "Attackers compromised five validator keys to hit quorum on an AFX-powered bridge, draining $24.15M in USDC and converting it to ETH (July 22).",
+      "source": "Blockaid / CryptoRank"
     },
     {
-      "headline": "Verus Ethereum bridge drained again via old exploit path",
-      "summary": "Attackers reused the same import-path vulnerability weaponized in May to steal $7.54M from the Verus Ethereum Bridge, its second breach in just over two months.",
-      "source": "crypto.news"
+      "headline": "Triple-A hot wallets drained of $9.7M",
+      "summary": "Crypto payments firm Triple-A had hot wallets across TRON, Ethereum, TON and Solana drained of roughly $9.7M in stablecoins and liquid assets (July 24-25).",
+      "source": "CryptoTimes / Coinpedia"
     },
     {
-      "headline": "B² Network loses $3.86M to upgrade-authority hijack",
-      "summary": "An attacker seized upgrade authority over B² Network's staking contract, draining roughly $3.86M in the third \"Hackers' Day\" incident.",
-      "source": "KuCoin News"
+      "headline": "Lien Finance loses $542K in bond-pricing exploit",
+      "summary": "Attackers manipulated bond pricing in Lien Finance's OTC pools on Ethereum to drain USDC liquidity on July 24.",
+      "source": "CryptoTimes"
     },
     {
-      "headline": "Ostium hit for up to $24M via oracle key compromise",
-      "summary": "Arbitrum-based perpetuals exchange Ostium suffered an oracle manipulation exploit after an attacker compromised a price-oracle private key, pushing fake future-dated price signs onchain.",
-      "source": "Halborn"
+      "headline": "\"Hackers' Day\" totals $35.5M across 3 exploits",
+      "summary": "On July 23, three separate DeFi exploits totaled $35.55M in losses, pushing the month's cumulative hack losses toward $100M.",
+      "source": "Lookonchain / CryptoTimes"
     }
   ]
 }
