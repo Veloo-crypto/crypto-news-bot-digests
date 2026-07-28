@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 27, 2026",
+      "text": "July 28, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act stablecoin rulemaking deadline landed July 18, forcing six federal agencies to finalize capital, reserve, and licensing rules for USDC/USAT issuers.",
+      "text": "Circle's OCC bank charter approval and Tether's GENIUS Act compliance push are reshaping the U.S. stablecoin landscape as USDC circulation tops $73B.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act rules finalized",
+      "text": "Circle Gets OCC Bank Charter Approval",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Six federal agencies finalized capital, reserve, and licensing rules for stablecoin issuers; OCC set a $5M capital floor and FDIC confirmed no deposit insurance for token holders.",
+      "text": "Circle can now manage USDC reserves directly as a nationally chartered bank; shares surged as stablecoin competition with Tether intensifies.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Treasury warns of $6.6T deposit flight risk",
+      "text": "Tether Faces GENIUS Act Compliance Deadline",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Treasury estimates yield-bearing stablecoins could pull up to $6.6 trillion from bank deposits, which legacy institutions call an existential threat to fractional-reserve banking.",
+      "text": "USDT's future on U.S. platforms hinges on meeting GENIUS Act requirements before the compliance window closes; offshore USDT currently sits outside the law's reserve rules.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Visa launches bank stablecoin platform",
+      "text": "Tether Pushes USAT to Challenge Circle in the US",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Visa unveiled a platform letting banks and fintechs issue, move, and manage stablecoins, broadening its crypto push as adoption widens.",
+      "text": "Tether's Anchorage Digital Bank-issued USAT token, launched to comply with GENIUS Act rules, is ramping up its US market entry against Circle's USDC.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "EU MiCA transition period ends",
+      "text": "ECB Official Warns Stablecoins Could Drain Bank Deposits",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "The EU's MiCA transitional period closed July 1, requiring every crypto-asset service provider in the bloc to secure full authorization or shut down.",
+      "text": "A European Central Bank board member flagged deposit-flight risk from stablecoin growth, briefly pressuring Coinbase and Circle shares.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "AFX Trade bridge exploit: $24M",
+      "text": "Triple-A Treasury Drained of $11.8M Across 7 Chains",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "An AFX-powered bridge on Arbitrum was drained of about $24.15M in USDC on July 22; the attacker converted proceeds to ETH and consolidated in one wallet.",
+      "text": "Singapore stablecoin payments firm Triple-A confirmed a 31-hour treasury wallet breach spanning Ethereum, TRON, Polygon, Arbitrum, Solana, TON and Bitcoin; client funds held in segregated trust accounts were unaffected.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Triple-A hot wallets drained: $9.7M",
+      "text": "AFX Bridge Exploit Drains $24M on Arbitrum",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Payments firm Triple-A had hot wallets drained across TRON, Ethereum, Polygon, and Arbitrum on July 25; the firm says customer funds were not affected.",
+      "text": "Attackers compromised private keys from five validators to hit quorum and drain USDC from an AFX-powered bridge, converting proceeds to ~12,467 ETH.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Wanchain, Verus bridges hit same week",
+      "text": "Two Cross-Chain Bridges Hacked in One Day, $31.5M Lost",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Bridge exploits at Wanchain and Verus, plus an Allbridge Core flash-loan drain and a B\u00b2 Network staking contract seizure, pushed weekly hack losses past $47M.",
+      "text": "A single day saw two separate bridge exploits combine for $31.5M in losses, pushing July's total crypto hack tally toward $97M.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Ostium oracle manipulation hack",
+      "text": "H1 2026 Crypto Hacks Hit Record 207 Incidents",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Arbitrum-based perps exchange Ostium lost an estimated $18-24M after an attacker used a compromised price-oracle private key to push fake future-dated price reports.",
+      "text": "TRM Labs reports a record incident count in H1 2026, though total losses fell to $972M; compromised accounts now drive over half of DeFi attacks, overtaking smart contract exploits.",
       "wrap": true,
       "size": "Small"
     }
