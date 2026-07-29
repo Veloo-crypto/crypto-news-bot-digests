@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 28, 2026",
+      "text": "July 29, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Circle's OCC bank charter approval and Tether's GENIUS Act compliance push are reshaping the U.S. stablecoin landscape as USDC circulation tops $73B.",
+      "text": "Stablecoin market cap has slid to $302.5B, down over $10B from its May peak \u2014 the sharpest monthly decline since Terra's 2022 collapse, even as monthly transaction volume hit a record $1.79T.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Circle Gets OCC Bank Charter Approval",
+      "text": "GENIUS Act rulemaking deadline missed",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle can now manage USDC reserves directly as a nationally chartered bank; shares surged as stablecoin competition with Tether intensifies.",
+      "text": "US regulators missed the GENIUS Act's July 18 rulemaking deadline, leaving key stablecoin rules unfinished ahead of the law's January 2027 start; Treasury's FinCEN and OFAC issued a joint proposed rule on AML/sanctions compliance in the meantime.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Tether Faces GENIUS Act Compliance Deadline",
+      "text": "Open USD consortium challenges USDT/USDC duopoly",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "USDT's future on U.S. platforms hinges on meeting GENIUS Act requirements before the compliance window closes; offshore USDT currently sits outside the law's reserve rules.",
+      "text": "A 140+ company consortium including Visa, Mastercard, Coinbase, and BlackRock launched Open USD, with Visa also rolling out a stablecoin platform for banks and fintechs to issue, store, and redeem digital dollars via the network.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Tether Pushes USAT to Challenge Circle in the US",
+      "text": "Standard Chartered-backed HKD stablecoin nears launch",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Tether's Anchorage Digital Bank-issued USAT token, launched to comply with GENIUS Act rules, is ramping up its US market entry against Circle's USDC.",
+      "text": "Anchorpoint, backed by Standard Chartered, is preparing to launch HKDAP, a Hong Kong dollar-pegged stablecoin, with a joint announcement expected before month-end.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "ECB Official Warns Stablecoins Could Drain Bank Deposits",
+      "text": "JPYC gains first major corporate adoption in Japan",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A European Central Bank board member flagged deposit-flight risk from stablecoin growth, briefly pressuring Coinbase and Circle shares.",
+      "text": "Logistics firm AZ-COM Maruwa Holdings plans to adopt the yen-denominated JPYC stablecoin for payments to roughly 2,300 business partners, marking Japan's first large-scale corporate stablecoin use case.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Triple-A Treasury Drained of $11.8M Across 7 Chains",
+      "text": "Triple-A treasury drained of $11.8M over 31 hours",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Singapore stablecoin payments firm Triple-A confirmed a 31-hour treasury wallet breach spanning Ethereum, TRON, Polygon, Arbitrum, Solana, TON and Bitcoin; client funds held in segregated trust accounts were unaffected.",
+      "text": "Singapore stablecoin payments gateway Triple-A lost $11.8M in company treasury funds across seven chains after an attacker gained persistent access to its wallet management layer; customer funds were unaffected.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "AFX Bridge Exploit Drains $24M on Arbitrum",
+      "text": "AFX Trade bridge exploit drains $24.15M on Arbitrum",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Attackers compromised private keys from five validators to hit quorum and drain USDC from an AFX-powered bridge, converting proceeds to ~12,467 ETH.",
+      "text": "Hackers obtained private keys from five validators to reach quorum and confirm a fraudulent transaction on an AFX-powered Arbitrum bridge, pushing July's total hack losses to roughly $97M.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Two Cross-Chain Bridges Hacked in One Day, $31.5M Lost",
+      "text": "Verus-Ethereum bridge hit for second time since May",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A single day saw two separate bridge exploits combine for $31.5M in losses, pushing July's total crypto hack tally toward $97M.",
+      "text": "The Verus-Ethereum bridge lost about $7.54M in its second exploit in three months, reinforcing cross-chain bridges as the industry's most persistent attack surface.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "H1 2026 Crypto Hacks Hit Record 207 Incidents",
+      "text": "H1 2026 crypto hacks cross $1.1B, a record",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "TRM Labs reports a record incident count in H1 2026, though total losses fell to $972M; compromised accounts now drive over half of DeFi attacks, overtaking smart contract exploits.",
+      "text": "Security firm Blockaid reports crypto hacks topped $1.1B in H1 2026, a record high even as median loss per incident fell, pointing to more frequent but smaller, more surgical attacks.",
       "wrap": true,
       "size": "Small"
     }
