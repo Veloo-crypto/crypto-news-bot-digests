@@ -1,47 +1,47 @@
 {
-  "date": "July 29, 2026",
-  "market_note": "Stablecoin market cap has slid to $302.5B, down over $10B from its May peak — the sharpest monthly decline since Terra's 2022 collapse, even as monthly transaction volume hit a record $1.79T.",
+  "date": "July 30, 2026",
+  "market_note": "Stablecoin market cap holds near $308B as Circle presses EU regulators on MiCA, warning only 3 of the top 50 stablecoins currently meet its requirements.",
   "stablecoin_items": [
     {
-      "headline": "GENIUS Act rulemaking deadline missed",
-      "summary": "US regulators missed the GENIUS Act's July 18 rulemaking deadline, leaving key stablecoin rules unfinished ahead of the law's January 2027 start; Treasury's FinCEN and OFAC issued a joint proposed rule on AML/sanctions compliance in the meantime.",
-      "source": "U.S. Department of the Treasury"
+      "headline": "Stablecoin market cap steady near $308B",
+      "summary": "Total stablecoin supply sits around $308.45B per DeFiLlama, with USDT (~59.6% dominance) and USDC (~$72.4B) both trading essentially on peg despite a slight 0.2% pullback over 24 hours.",
+      "source": "DeFiLlama / CoinGabbar"
     },
     {
-      "headline": "Open USD consortium challenges USDT/USDC duopoly",
-      "summary": "A 140+ company consortium including Visa, Mastercard, Coinbase, and BlackRock launched Open USD, with Visa also rolling out a stablecoin platform for banks and fintechs to issue, store, and redeem digital dollars via the network.",
-      "source": "WSPN / Bloomberg"
+      "headline": "Circle presses EU to fix MiCA rules",
+      "summary": "Circle's Patrick Hansen said only 3 of the world's top 50 stablecoins currently meet MiCA requirements, calling for stronger global coordination to keep the EU competitive.",
+      "source": "Kraken Blog"
     },
     {
-      "headline": "Standard Chartered-backed HKD stablecoin nears launch",
-      "summary": "Anchorpoint, backed by Standard Chartered, is preparing to launch HKDAP, a Hong Kong dollar-pegged stablecoin, with a joint announcement expected before month-end.",
-      "source": "crypto.news"
+      "headline": "Revolut users rush out of USDT before delisting",
+      "summary": "Revolut clients moved $855M in a week and $2B over the past month out of USDT ahead of the token's planned delisting from the platform on August 31.",
+      "source": "Bitcoin Foundation News"
     },
     {
-      "headline": "JPYC gains first major corporate adoption in Japan",
-      "summary": "Logistics firm AZ-COM Maruwa Holdings plans to adopt the yen-denominated JPYC stablecoin for payments to roughly 2,300 business partners, marking Japan's first large-scale corporate stablecoin use case.",
-      "source": "crypto.news"
+      "headline": "GENIUS Act stablecoin rulemaking deadline lands",
+      "summary": "A key U.S. stablecoin rulemaking deadline under the GENIUS Act arrived this week, coinciding with the July 28-29 FOMC meeting, adding fresh regulatory clarity pressure on issuers.",
+      "source": "Kraken Blog"
     }
   ],
   "hack_items": [
     {
-      "headline": "Triple-A treasury drained of $11.8M over 31 hours",
-      "summary": "Singapore stablecoin payments gateway Triple-A lost $11.8M in company treasury funds across seven chains after an attacker gained persistent access to its wallet management layer; customer funds were unaffected.",
-      "source": "TechTimes / FinanceFeeds"
+      "headline": "AFX-powered bridge drained of $24.15M",
+      "summary": "Attackers compromised private keys from five validators on an Arbitrum bridge to hit quorum and move funds; the 200-second challenge window passed with no challenge filed.",
+      "source": "CryptoRank.io"
     },
     {
-      "headline": "AFX Trade bridge exploit drains $24.15M on Arbitrum",
-      "summary": "Hackers obtained private keys from five validators to reach quorum and confirm a fraudulent transaction on an AFX-powered Arbitrum bridge, pushing July's total hack losses to roughly $97M.",
-      "source": "CryptoRank / CryptoTimes"
+      "headline": "Triple-A treasury drain revised up to $11.8M",
+      "summary": "Payments firm Triple-A confirmed unauthorized access to hot wallets across TRON, Ethereum, TON and Solana, with funds still being actively drained 31 hours after first outflows.",
+      "source": "CryptoTimes"
     },
     {
-      "headline": "Verus-Ethereum bridge hit for second time since May",
-      "summary": "The Verus-Ethereum bridge lost about $7.54M in its second exploit in three months, reinforcing cross-chain bridges as the industry's most persistent attack surface.",
-      "source": "Bitcoin Foundation"
+      "headline": "Solido Money hack strips 293.7M SUPRA tokens",
+      "summary": "A two-wave attack on Solido Money drained 293.7M SUPRA tokens; on-chain tracing points to a large portion moving toward a suspected Gate.io deposit address.",
+      "source": "Cryptonomist"
     },
     {
-      "headline": "H1 2026 crypto hacks cross $1.1B, a record",
-      "summary": "Security firm Blockaid reports crypto hacks topped $1.1B in H1 2026, a record high even as median loss per incident fell, pointing to more frequent but smaller, more surgical attacks.",
+      "headline": "H1 2026 sets record: $1.1B stolen across 212 exploits",
+      "summary": "Blockaid's H1 2026 report tallies 212 verified exploits, with DPRK-linked groups tied to the KelpDAO (~$292M) and Drift Protocol (~$285M) incidents alone.",
       "source": "Blockaid / CryptoTimes"
     }
   ]
