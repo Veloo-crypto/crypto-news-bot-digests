@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "July 31, 2026",
+      "text": "August 2, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin market cap holds near $301B as Circle backs stricter GENIUS Act rules while Tether's El Salvador base keeps USDT outside the U.S. audit framework.",
+      "text": "US dollar stablecoin market cap has climbed to roughly $308B, up $71B (30%) as adoption accelerates one year after the GENIUS Act became law.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Hong Kong dollar stablecoin HKDAP set to launch",
+      "text": "GENIUS Act rulemaking deadline passes with no final rules",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A Standard Chartered-led venture's HKD-pegged stablecoin could begin trading as early as today, one of the first HKD stablecoins issued under Hong Kong's new regulatory framework.",
+      "text": "The Fed, OCC, FDIC, NCUA and Treasury all missed the July 18 statutory deadline to finalize federal stablecoin rules, leaving issuers in regulatory limbo ahead of the January 2027 fallback date.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Tether's USAT goes live on Celo",
+      "text": "USDC pulls ahead of USDT in transaction volume",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Tether deployed its GENIUS Act-aligned USAT stablecoin on Celo with native mint, burn, and gas support, its second network beyond Ethereum mainnet.",
+      "text": "Circle's USDC now accounts for about 70% of adjusted stablecoin transaction volume versus USDT's 25%, as total volume hit a record $1.79T in June.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Revolut users rush out of USDT before delisting",
+      "text": "Tether signs MOU with Nairobi Securities Exchange",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "USDT withdrawals hit $855M in a week and $2B in a month on Revolut as clients exit ahead of the platform's USDT delisting on August 31.",
+      "text": "Tether will pilot USDT and its Hadron platform for instant settlement on Kenya's $26.4B stock exchange, part of a push into emerging-market capital markets.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Circle backs tougher stablecoin oversight under GENIUS Act",
+      "text": "Tether moves USDT onto Bitcoin via RGB protocol",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle told the OCC it supports requiring only licensed entities to issue stablecoins, sharpening the compliance contrast with offshore issuer Tether.",
+      "text": "A native USDT issuance on Bitcoin using the RGB protocol, integrated with Lightning, is rolling out for near-instant, low-cost stablecoin transfers.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "AFX-powered bridge exploit drains $24M on Arbitrum",
+      "text": "Coldcard firmware flaw drains $38M in 25 minutes",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Attackers compromised private keys from five validators to hit quorum and drain roughly $24.15M in USDC, converting it to ETH in a single wallet.",
+      "text": "A five-year-old build bug caused Coldcard Mk3 wallets to silently use a weak RNG; attackers swept 594 BTC from roughly 500 wallets across 500 transactions on July 31.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "H1 2026 sets record for crypto hacks: $1.1B stolen",
+      "text": "Ostium loses $18M in oracle price-feed attack",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Blockaid's first-half report counted 212 verified exploits across protocols, wallets, and infrastructure, the worst half-year on record despite fewer, more surgical attacks.",
+      "text": "Attackers gamed Ostium's own oracle infrastructure to manipulate prices and drain funds, the latest in a wave of oracle-targeted DeFi exploits.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Verus Ethereum Bridge hacked a second time",
+      "text": "Summer.fi exploit drains $6M, vaults halted",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "An attacker siphoned about $7.54M from the Verus Ethereum Bridge on July 23, the bridge's second breach this year.",
+      "text": "A vulnerability in Summer.fi's Lazy Summer vaults was exploited for roughly $6M, prompting the protocol to pause the affected vaults.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "North Korea tied to npm wallet-drainer supply-chain attack",
+      "text": "Lien Finance hacked for $542K in USDC exploit",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Amazon linked last year's hijack of npm packages debug and chalk to North Korean actors; a phished maintainer let a wallet-draining script reach 18+ packages with 2B+ weekly downloads.",
+      "text": "The Ethereum DeFi protocol Lien Finance suffered a smart-contract exploit resulting in the loss of $542K in USDC.",
       "wrap": true,
       "size": "Small"
     }

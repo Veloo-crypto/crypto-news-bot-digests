@@ -1,48 +1,48 @@
 {
-  "date": "July 31, 2026",
-  "market_note": "Stablecoin market cap holds near $301B as Circle backs stricter GENIUS Act rules while Tether's El Salvador base keeps USDT outside the U.S. audit framework.",
+  "date": "August 2, 2026",
+  "market_note": "US dollar stablecoin market cap has climbed to roughly $308B, up $71B (30%) as adoption accelerates one year after the GENIUS Act became law.",
   "stablecoin_items": [
     {
-      "headline": "Hong Kong dollar stablecoin HKDAP set to launch",
-      "summary": "A Standard Chartered-led venture's HKD-pegged stablecoin could begin trading as early as today, one of the first HKD stablecoins issued under Hong Kong's new regulatory framework.",
-      "source": "Cryptonews.net"
+      "headline": "GENIUS Act rulemaking deadline passes with no final rules",
+      "summary": "The Fed, OCC, FDIC, NCUA and Treasury all missed the July 18 statutory deadline to finalize federal stablecoin rules, leaving issuers in regulatory limbo ahead of the January 2027 fallback date.",
+      "source": "Crypto Briefing"
     },
     {
-      "headline": "Tether's USAT goes live on Celo",
-      "summary": "Tether deployed its GENIUS Act-aligned USAT stablecoin on Celo with native mint, burn, and gas support, its second network beyond Ethereum mainnet.",
-      "source": "CoinGabbar"
+      "headline": "USDC pulls ahead of USDT in transaction volume",
+      "summary": "Circle's USDC now accounts for about 70% of adjusted stablecoin transaction volume versus USDT's 25%, as total volume hit a record $1.79T in June.",
+      "source": "CoinDesk"
     },
     {
-      "headline": "Revolut users rush out of USDT before delisting",
-      "summary": "USDT withdrawals hit $855M in a week and $2B in a month on Revolut as clients exit ahead of the platform's USDT delisting on August 31.",
-      "source": "CoinGabbar"
+      "headline": "Tether signs MOU with Nairobi Securities Exchange",
+      "summary": "Tether will pilot USDT and its Hadron platform for instant settlement on Kenya's $26.4B stock exchange, part of a push into emerging-market capital markets.",
+      "source": "CoinGeek"
     },
     {
-      "headline": "Circle backs tougher stablecoin oversight under GENIUS Act",
-      "summary": "Circle told the OCC it supports requiring only licensed entities to issue stablecoins, sharpening the compliance contrast with offshore issuer Tether.",
-      "source": "Stocktwits"
+      "headline": "Tether moves USDT onto Bitcoin via RGB protocol",
+      "summary": "A native USDT issuance on Bitcoin using the RGB protocol, integrated with Lightning, is rolling out for near-instant, low-cost stablecoin transfers.",
+      "source": "Cointribune"
     }
   ],
   "hack_items": [
     {
-      "headline": "AFX-powered bridge exploit drains $24M on Arbitrum",
-      "summary": "Attackers compromised private keys from five validators to hit quorum and drain roughly $24.15M in USDC, converting it to ETH in a single wallet.",
-      "source": "CryptoRank / Blockaid"
+      "headline": "Coldcard firmware flaw drains $38M in 25 minutes",
+      "summary": "A five-year-old build bug caused Coldcard Mk3 wallets to silently use a weak RNG; attackers swept 594 BTC from roughly 500 wallets across 500 transactions on July 31.",
+      "source": "CoinDesk"
     },
     {
-      "headline": "H1 2026 sets record for crypto hacks: $1.1B stolen",
-      "summary": "Blockaid's first-half report counted 212 verified exploits across protocols, wallets, and infrastructure, the worst half-year on record despite fewer, more surgical attacks.",
-      "source": "TRM Labs / Blockaid"
+      "headline": "Ostium loses $18M in oracle price-feed attack",
+      "summary": "Attackers gamed Ostium's own oracle infrastructure to manipulate prices and drain funds, the latest in a wave of oracle-targeted DeFi exploits.",
+      "source": "CoinDesk"
     },
     {
-      "headline": "Verus Ethereum Bridge hacked a second time",
-      "summary": "An attacker siphoned about $7.54M from the Verus Ethereum Bridge on July 23, the bridge's second breach this year.",
-      "source": "CryptoTimes"
+      "headline": "Summer.fi exploit drains $6M, vaults halted",
+      "summary": "A vulnerability in Summer.fi's Lazy Summer vaults was exploited for roughly $6M, prompting the protocol to pause the affected vaults.",
+      "source": "BeInCrypto"
     },
     {
-      "headline": "North Korea tied to npm wallet-drainer supply-chain attack",
-      "summary": "Amazon linked last year's hijack of npm packages debug and chalk to North Korean actors; a phished maintainer let a wallet-draining script reach 18+ packages with 2B+ weekly downloads.",
-      "source": "The Hacker News"
+      "headline": "Lien Finance hacked for $542K in USDC exploit",
+      "summary": "The Ethereum DeFi protocol Lien Finance suffered a smart-contract exploit resulting in the loss of $542K in USDC.",
+      "source": "Crypto Times"
     }
   ]
 }
