@@ -1,48 +1,48 @@
 {
-  "date": "August 2, 2026",
-  "market_note": "US dollar stablecoin market cap has climbed to roughly $308B, up $71B (30%) as adoption accelerates one year after the GENIUS Act became law.",
+  "date": "August 3, 2026",
+  "market_note": "Stablecoin market cap holds near $308B as USDC (~70% of volume) widens its lead over USDT (~25%) amid record $1.79T monthly transaction volume.",
   "stablecoin_items": [
     {
-      "headline": "GENIUS Act rulemaking deadline passes with no final rules",
-      "summary": "The Fed, OCC, FDIC, NCUA and Treasury all missed the July 18 statutory deadline to finalize federal stablecoin rules, leaving issuers in regulatory limbo ahead of the January 2027 fallback date.",
-      "source": "Crypto Briefing"
+      "headline": "Tether Q2 profit hits $1.5B, but reserve buffer halves",
+      "summary": "Tether posted $1.5B in Q2 net profit, up from $1.04B in Q1, but its excess reserve buffer fell to $4.11B from a record $8.23B three months earlier, largely due to gold and Bitcoin price declines.",
+      "source": "CoinGabbar"
     },
     {
-      "headline": "USDC pulls ahead of USDT in transaction volume",
-      "summary": "Circle's USDC now accounts for about 70% of adjusted stablecoin transaction volume versus USDT's 25%, as total volume hit a record $1.79T in June.",
-      "source": "CoinDesk"
+      "headline": "Circle's USDC pulls further ahead of Tether's USDT",
+      "summary": "USDC accounted for roughly 70% of adjusted stablecoin transaction volume in H1 2026 versus USDT's 25%, as record monthly volume hit $1.79T in June, up 63% month-over-month.",
+      "source": "CoinDesk / Yahoo Finance"
     },
     {
-      "headline": "Tether signs MOU with Nairobi Securities Exchange",
-      "summary": "Tether will pilot USDT and its Hadron platform for instant settlement on Kenya's $26.4B stock exchange, part of a push into emerging-market capital markets.",
-      "source": "CoinGeek"
+      "headline": "Stripe, Visa and 140+ firms back new stablecoin to rival Tether, Circle",
+      "summary": "A consortium including Stripe and Visa is launching a new dollar stablecoin (OUSD) aimed at competing directly with USDT and USDC in payments infrastructure.",
+      "source": "Fortune"
     },
     {
-      "headline": "Tether moves USDT onto Bitcoin via RGB protocol",
-      "summary": "A native USDT issuance on Bitcoin using the RGB protocol, integrated with Lightning, is rolling out for near-instant, low-cost stablecoin transfers.",
-      "source": "Cointribune"
+      "headline": "UK finalizes two-tier stablecoin rulebook",
+      "summary": "The UK's core cryptoasset rules took effect June 30, with the FCA supervising all UK-issued qualifying stablecoins and the Bank of England overseeing any token deemed systemic, requiring 1% issuer capital.",
+      "source": "FCA / Industry reports"
     }
   ],
   "hack_items": [
     {
-      "headline": "Coldcard firmware flaw drains $38M in 25 minutes",
-      "summary": "A five-year-old build bug caused Coldcard Mk3 wallets to silently use a weak RNG; attackers swept 594 BTC from roughly 500 wallets across 500 transactions on July 31.",
+      "headline": "Coldcard wallet exploit balloons to $89M across 4,500+ addresses",
+      "summary": "A 2021 firmware flaw causing weak key randomness has enabled attackers to systematically drain Bitcoin in three waves; Coinkite has shipped emergency firmware but affected users must migrate to fresh seeds.",
       "source": "CoinDesk"
     },
     {
-      "headline": "Ostium loses $18M in oracle price-feed attack",
-      "summary": "Attackers gamed Ostium's own oracle infrastructure to manipulate prices and drain funds, the latest in a wave of oracle-targeted DeFi exploits.",
-      "source": "CoinDesk"
+      "headline": "Strike CEO calls Coldcard drain 'one of the most serious' BTC breaches",
+      "summary": "The escalating hardware-wallet exploit has reignited debate over self-custody security versus exchange custody and ETF exposure.",
+      "source": "Yahoo Finance"
     },
     {
-      "headline": "Summer.fi exploit drains $6M, vaults halted",
-      "summary": "A vulnerability in Summer.fi's Lazy Summer vaults was exploited for roughly $6M, prompting the protocol to pause the affected vaults.",
-      "source": "BeInCrypto"
+      "headline": "H1 2026 sets record for crypto hacks: 212 exploits, $1B+ lost",
+      "summary": "TRM Labs and others report the highest half-year hack count on record; state-backed actors linked to Lazarus Group are attributed with roughly 76% of global hack losses in 2026.",
+      "source": "TRM Labs"
     },
     {
-      "headline": "Lien Finance hacked for $542K in USDC exploit",
-      "summary": "The Ethereum DeFi protocol Lien Finance suffered a smart-contract exploit resulting in the loss of $542K in USDC.",
-      "source": "Crypto Times"
+      "headline": "KelpDAO and Drift Protocol exploits top DeFi loss list",
+      "summary": "KelpDAO's $292M LayerZero bridge exploit and Drift Protocol's $285M Solana DEX drain remain 2026's largest DeFi incidents, with compromised RPC nodes and single-verifier bridge configs cited as root causes.",
+      "source": "Binance Square / CCN"
     }
   ]
 }
