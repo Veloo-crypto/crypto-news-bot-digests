@@ -1,48 +1,48 @@
 {
-  "date": "August 3, 2026",
-  "market_note": "Stablecoin market cap holds near $308B as USDC (~70% of volume) widens its lead over USDT (~25%) amid record $1.79T monthly transaction volume.",
+  "date": "August 4, 2026",
+  "market_note": "Stablecoin supply has shed $15B since May, 2026's biggest decline since Terra's collapse, as GENIUS Act interest bans push cash into tokenized Treasuries.",
   "stablecoin_items": [
     {
-      "headline": "Tether Q2 profit hits $1.5B, but reserve buffer halves",
-      "summary": "Tether posted $1.5B in Q2 net profit, up from $1.04B in Q1, but its excess reserve buffer fell to $4.11B from a record $8.23B three months earlier, largely due to gold and Bitcoin price declines.",
-      "source": "CoinGabbar"
+      "headline": "Stablecoin supply posts biggest drop since Terra",
+      "summary": "Total supply fell over $15B from a mid-May peak of $322B as GENIUS Act rules barring yield on payment stablecoins pushed cash into tokenized Treasuries. USDT and USDC absorbed most of the decline.",
+      "source": "Bitcoin.com / CryptoBriefing"
     },
     {
-      "headline": "Circle's USDC pulls further ahead of Tether's USDT",
-      "summary": "USDC accounted for roughly 70% of adjusted stablecoin transaction volume in H1 2026 versus USDT's 25%, as record monthly volume hit $1.79T in June, up 63% month-over-month.",
-      "source": "CoinDesk / Yahoo Finance"
+      "headline": "OCC issues proposed rules to implement GENIUS Act",
+      "summary": "The OCC published a notice of proposed rulemaking covering issuance and licensing requirements for payment stablecoin issuers, a major step in formalizing the July 2025 law.",
+      "source": "OCC"
     },
     {
-      "headline": "Stripe, Visa and 140+ firms back new stablecoin to rival Tether, Circle",
-      "summary": "A consortium including Stripe and Visa is launching a new dollar stablecoin (OUSD) aimed at competing directly with USDT and USDC in payments infrastructure.",
-      "source": "Fortune"
+      "headline": "Tether and Circle battle for share as new rival emerges",
+      "summary": "Circle's Arc chain is moving to proof-of-stake and courting institutions, while Stripe, Visa, BlackRock and 140+ firms back a new rival, Open USD (OUSD); Circle shares fell 13% on the news.",
+      "source": "CoinGeek / Fortune"
     },
     {
-      "headline": "UK finalizes two-tier stablecoin rulebook",
-      "summary": "The UK's core cryptoasset rules took effect June 30, with the FCA supervising all UK-issued qualifying stablecoins and the Bank of England overseeing any token deemed systemic, requiring 1% issuer capital.",
-      "source": "FCA / Industry reports"
+      "headline": "Tether's USAT grows but still trails USDC, PYUSD, RLUSD",
+      "summary": "Tether's US-focused stablecoin USAT is scaling for institutional treasury and settlement use, but remains far smaller than Circle's ~$72B USDC and other regulated rivals.",
+      "source": "CoinDesk"
     }
   ],
   "hack_items": [
     {
-      "headline": "Coldcard wallet exploit balloons to $89M across 4,500+ addresses",
-      "summary": "A 2021 firmware flaw causing weak key randomness has enabled attackers to systematically drain Bitcoin in three waves; Coinkite has shipped emergency firmware but affected users must migrate to fresh seeds.",
-      "source": "CoinDesk"
+      "headline": "Coldcard hardware wallet flaw drains $116M in BTC",
+      "summary": "A 2021 firmware bug routed seed generation to a predictable software RNG instead of the hardware RNG; attackers have swept over 4,500 wallets in successive waves since July 30. Coinkite has shipped emergency firmware.",
+      "source": "Bloomberg / Fortune"
     },
     {
-      "headline": "Strike CEO calls Coldcard drain 'one of the most serious' BTC breaches",
-      "summary": "The escalating hardware-wallet exploit has reignited debate over self-custody security versus exchange custody and ETF exposure.",
-      "source": "Yahoo Finance"
+      "headline": "Ethereum phishing scam drains nearly $1M from a single wallet",
+      "summary": "A targeted phishing attack tricked a victim into signing a malicious transaction, draining close to $1M in ETH-based assets in one hit.",
+      "source": "crypto.news"
     },
     {
-      "headline": "H1 2026 sets record for crypto hacks: 212 exploits, $1B+ lost",
-      "summary": "TRM Labs and others report the highest half-year hack count on record; state-backed actors linked to Lazarus Group are attributed with roughly 76% of global hack losses in 2026.",
+      "headline": "KelpDAO's $292M LayerZero bridge hack still reverberating",
+      "summary": "The April cross-chain exploit, linked to North Korea's Lazarus Group, triggered a $9B panic withdrawal from Aave after attackers used stolen funds as loan collateral, exposing systemic DeFi contagion risk.",
+      "source": "Bloomberg"
+    },
+    {
+      "headline": "H1 2026 sets record for crypto hack frequency",
+      "summary": "Q2 2026 logged roughly 70 separate exploits, the most-hacked quarter on record, though total losses stayed below $1B as recovery efforts improved.",
       "source": "TRM Labs"
-    },
-    {
-      "headline": "KelpDAO and Drift Protocol exploits top DeFi loss list",
-      "summary": "KelpDAO's $292M LayerZero bridge exploit and Drift Protocol's $285M Solana DEX drain remain 2026's largest DeFi incidents, with compromised RPC nodes and single-verifier bridge configs cited as root causes.",
-      "source": "Binance Square / CCN"
     }
   ]
 }

@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "August 3, 2026",
+      "text": "August 4, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin market cap holds near $308B as USDC (~70% of volume) widens its lead over USDT (~25%) amid record $1.79T monthly transaction volume.",
+      "text": "Stablecoin supply has shed $15B since May, 2026's biggest decline since Terra's collapse, as GENIUS Act interest bans push cash into tokenized Treasuries.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Tether Q2 profit hits $1.5B, but reserve buffer halves",
+      "text": "Stablecoin supply posts biggest drop since Terra",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Tether posted $1.5B in Q2 net profit, up from $1.04B in Q1, but its excess reserve buffer fell to $4.11B from a record $8.23B three months earlier, largely due to gold and Bitcoin price declines.",
+      "text": "Total supply fell over $15B from a mid-May peak of $322B as GENIUS Act rules barring yield on payment stablecoins pushed cash into tokenized Treasuries. USDT and USDC absorbed most of the decline.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Circle's USDC pulls further ahead of Tether's USDT",
+      "text": "OCC issues proposed rules to implement GENIUS Act",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "USDC accounted for roughly 70% of adjusted stablecoin transaction volume in H1 2026 versus USDT's 25%, as record monthly volume hit $1.79T in June, up 63% month-over-month.",
+      "text": "The OCC published a notice of proposed rulemaking covering issuance and licensing requirements for payment stablecoin issuers, a major step in formalizing the July 2025 law.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Stripe, Visa and 140+ firms back new stablecoin to rival Tether, Circle",
+      "text": "Tether and Circle battle for share as new rival emerges",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A consortium including Stripe and Visa is launching a new dollar stablecoin (OUSD) aimed at competing directly with USDT and USDC in payments infrastructure.",
+      "text": "Circle's Arc chain is moving to proof-of-stake and courting institutions, while Stripe, Visa, BlackRock and 140+ firms back a new rival, Open USD (OUSD); Circle shares fell 13% on the news.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "UK finalizes two-tier stablecoin rulebook",
+      "text": "Tether's USAT grows but still trails USDC, PYUSD, RLUSD",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "The UK's core cryptoasset rules took effect June 30, with the FCA supervising all UK-issued qualifying stablecoins and the Bank of England overseeing any token deemed systemic, requiring 1% issuer capital.",
+      "text": "Tether's US-focused stablecoin USAT is scaling for institutional treasury and settlement use, but remains far smaller than Circle's ~$72B USDC and other regulated rivals.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Coldcard wallet exploit balloons to $89M across 4,500+ addresses",
+      "text": "Coldcard hardware wallet flaw drains $116M in BTC",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A 2021 firmware flaw causing weak key randomness has enabled attackers to systematically drain Bitcoin in three waves; Coinkite has shipped emergency firmware but affected users must migrate to fresh seeds.",
+      "text": "A 2021 firmware bug routed seed generation to a predictable software RNG instead of the hardware RNG; attackers have swept over 4,500 wallets in successive waves since July 30. Coinkite has shipped emergency firmware.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Strike CEO calls Coldcard drain 'one of the most serious' BTC breaches",
+      "text": "Ethereum phishing scam drains nearly $1M from a single wallet",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "The escalating hardware-wallet exploit has reignited debate over self-custody security versus exchange custody and ETF exposure.",
+      "text": "A targeted phishing attack tricked a victim into signing a malicious transaction, draining close to $1M in ETH-based assets in one hit.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "H1 2026 sets record for crypto hacks: 212 exploits, $1B+ lost",
+      "text": "KelpDAO's $292M LayerZero bridge hack still reverberating",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "TRM Labs and others report the highest half-year hack count on record; state-backed actors linked to Lazarus Group are attributed with roughly 76% of global hack losses in 2026.",
+      "text": "The April cross-chain exploit, linked to North Korea's Lazarus Group, triggered a $9B panic withdrawal from Aave after attackers used stolen funds as loan collateral, exposing systemic DeFi contagion risk.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "KelpDAO and Drift Protocol exploits top DeFi loss list",
+      "text": "H1 2026 sets record for crypto hack frequency",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "KelpDAO's $292M LayerZero bridge exploit and Drift Protocol's $285M Solana DEX drain remain 2026's largest DeFi incidents, with compromised RPC nodes and single-verifier bridge configs cited as root causes.",
+      "text": "Q2 2026 logged roughly 70 separate exploits, the most-hacked quarter on record, though total losses stayed below $1B as recovery efforts improved.",
       "wrap": true,
       "size": "Small"
     }
