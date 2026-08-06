@@ -1,48 +1,43 @@
 {
-  "date": "August 4, 2026",
-  "market_note": "Stablecoin supply has shed $15B since May, 2026's biggest decline since Terra's collapse, as GENIUS Act interest bans push cash into tokenized Treasuries.",
+  "date": "August 6, 2026",
+  "market_note": "Stablecoin supply shed roughly $15B in its steepest drop since Terra, even as USDC transaction volume hit a record $1.79T — supply and usage are diverging.",
   "stablecoin_items": [
     {
-      "headline": "Stablecoin supply posts biggest drop since Terra",
-      "summary": "Total supply fell over $15B from a mid-May peak of $322B as GENIUS Act rules barring yield on payment stablecoins pushed cash into tokenized Treasuries. USDT and USDC absorbed most of the decline.",
-      "source": "Bitcoin.com / CryptoBriefing"
+      "headline": "Tether Delisted From Regulated EU Markets as MiCA Bites",
+      "summary": "USDT was pulled from regulated European exchanges after Tether chose not to pursue a MiCA license; rival Circle secured approval and is expanding its euro-denominated USDC business.",
+      "source": "DL News / Payment Expert"
     },
     {
-      "headline": "OCC issues proposed rules to implement GENIUS Act",
-      "summary": "The OCC published a notice of proposed rulemaking covering issuance and licensing requirements for payment stablecoin issuers, a major step in formalizing the July 2025 law.",
-      "source": "OCC"
+      "headline": "USDC Overtakes USDT in Transaction Volume",
+      "summary": "Circle's USDC accounted for roughly 70% of adjusted stablecoin transaction volume in H1 2026 versus ~25% for Tether, even though USDT still leads on total market cap after posting a $1.5B Q2 profit.",
+      "source": "Yahoo Finance / Payment Expert"
     },
     {
-      "headline": "Tether and Circle battle for share as new rival emerges",
-      "summary": "Circle's Arc chain is moving to proof-of-stake and courting institutions, while Stripe, Visa, BlackRock and 140+ firms back a new rival, Open USD (OUSD); Circle shares fell 13% on the news.",
-      "source": "CoinGeek / Fortune"
+      "headline": "Stablecoin Supply Posts Biggest Drop Since Terra",
+      "summary": "Total stablecoin supply shed about $15B, the sharpest contraction since the Terra collapse; analysts attribute it to liquidity rotation rather than panic.",
+      "source": "CryptoNews.net"
     },
     {
-      "headline": "Tether's USAT grows but still trails USDC, PYUSD, RLUSD",
-      "summary": "Tether's US-focused stablecoin USAT is scaling for institutional treasury and settlement use, but remains far smaller than Circle's ~$72B USDC and other regulated rivals.",
-      "source": "CoinDesk"
+      "headline": "Standard Chartered-Backed HKDAP Set for August Launch",
+      "summary": "Anchorpoint's Hong Kong dollar stablecoin HKDAP is expected to roll out this month via a B2B2C distribution model for cross-border payments and tokenized assets.",
+      "source": "crypto.news"
     }
   ],
   "hack_items": [
     {
-      "headline": "Coldcard hardware wallet flaw drains $116M in BTC",
-      "summary": "A 2021 firmware bug routed seed generation to a predictable software RNG instead of the hardware RNG; attackers have swept over 4,500 wallets in successive waves since July 30. Coinkite has shipped emergency firmware.",
-      "source": "Bloomberg / Fortune"
+      "headline": "Coldcard Hardware Wallet Exploit Tops $130M",
+      "summary": "A 2021 firmware flaw that weakened seed randomness let attackers drain 1,816 BTC from over 5,200 addresses starting July 30; maker Coinkite says AI-assisted review failed to catch the bug.",
+      "source": "TechCrunch / TRM Labs"
     },
     {
-      "headline": "Ethereum phishing scam drains nearly $1M from a single wallet",
-      "summary": "A targeted phishing attack tricked a victim into signing a malicious transaction, draining close to $1M in ETH-based assets in one hit.",
-      "source": "crypto.news"
+      "headline": "Wanchain Sets Today as Deadline for Cardano Bridge Hacker",
+      "summary": "Wanchain gave the attacker behind a $10M NIGHT token exploit until Aug 6 to return 90% of the funds in exchange for a 10% white-hat bounty and no legal action.",
+      "source": "CryptoTimes"
     },
     {
-      "headline": "KelpDAO's $292M LayerZero bridge hack still reverberating",
-      "summary": "The April cross-chain exploit, linked to North Korea's Lazarus Group, triggered a $9B panic withdrawal from Aave after attackers used stolen funds as loan collateral, exposing systemic DeFi contagion risk.",
-      "source": "Bloomberg"
-    },
-    {
-      "headline": "H1 2026 sets record for crypto hack frequency",
-      "summary": "Q2 2026 logged roughly 70 separate exploits, the most-hacked quarter on record, though total losses stayed below $1B as recovery efforts improved.",
-      "source": "TRM Labs"
+      "headline": "2026 Hack Toll Passes $1.2 Billion",
+      "summary": "The Coldcard incident now ranks as the third-largest attack of the year, pushing 2026's cumulative crypto theft past $1.2B across 276 verified incidents.",
+      "source": "Blockaid / industry trackers"
     }
   ]
 }
