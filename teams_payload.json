@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "August 6, 2026",
+      "text": "August 7, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin supply shed roughly $15B in its steepest drop since Terra, even as USDC transaction volume hit a record $1.79T \u2014 supply and usage are diverging.",
+      "text": "Stablecoin market cap sits near $287-310B even as U.S. regulators missed the GENIUS Act's July 18 rule-finalization deadline, leaving issuers in limbo through August comment periods.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Tether Delisted From Regulated EU Markets as MiCA Bites",
+      "text": "GENIUS Act rules miss deadline, stablecoin uncertainty extends",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "USDT was pulled from regulated European exchanges after Tether chose not to pursue a MiCA license; rival Circle secured approval and is expanding its euro-denominated USDC business.",
+      "text": "Treasury, OCC, Fed, FDIC and NCUA all missed the July 18 deadline to finalize implementing rules, leaving the $310B stablecoin market under an incomplete federal framework. Comment periods run into August (FDIC through Aug 4, five-agency CIP through Aug 21).",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "USDC Overtakes USDT in Transaction Volume",
+      "text": "Western Union launches stablecoin-linked Visa card",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle's USDC accounted for roughly 70% of adjusted stablecoin transaction volume in H1 2026 versus ~25% for Tether, even though USDT still leads on total market cap after posting a $1.5B Q2 profit.",
+      "text": "Western Union and Rain unveiled Stablecard, pairing a USDPT stablecoin wallet with a Visa card so remittances arrive as stablecoins and spend instantly anywhere Visa is accepted.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin Supply Posts Biggest Drop Since Terra",
+      "text": "Standard Chartered-backed HKDAP stablecoin rollout slips to August",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Total stablecoin supply shed about $15B, the sharpest contraction since the Terra collapse; analysts attribute it to liquidity rotation rather than panic.",
+      "text": "Anchorpoint Financial pushed the public launch of its Hong Kong dollar stablecoin HKDAP into August after missing Q2 and end-of-July targets, opting for a B2B2C distribution model via approved partners.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Standard Chartered-Backed HKDAP Set for August Launch",
+      "text": "Tether's USDT stays locked out of the EU as Circle gains ground",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Anchorpoint's Hong Kong dollar stablecoin HKDAP is expected to roll out this month via a B2B2C distribution model for cross-border payments and tokenized assets.",
+      "text": "USDT remains without MiCA authorization and stays delisted from major EU-regulated exchanges, while Circle's USDC and EURC are MiCA-passportable across all EU member states via its French EMI license.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,37 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Coldcard Hardware Wallet Exploit Tops $130M",
+      "text": "Coldcard hardware wallet exploit tops $130M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A 2021 firmware flaw that weakened seed randomness let attackers drain 1,816 BTC from over 5,200 addresses starting July 30; maker Coinkite says AI-assisted review failed to catch the bug.",
+      "text": "A five-year-old firmware flaw let attackers reconstruct Bitcoin seed keys, draining 1,800+ BTC across 5,200+ addresses since July 30 in multiple waves. Coinkite issued an emergency patch and urged anyone who generated a seed since March 2021 to migrate funds.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Wanchain Sets Today as Deadline for Cardano Bridge Hacker",
+      "text": "$35M drained in coordinated attacks on three protocols",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Wanchain gave the attacker behind a $10M NIGHT token exploit until Aug 6 to return 90% of the funds in exchange for a 10% white-hat bounty and no legal action.",
+      "text": "AFX's Arbitrum bridge ($24.15M), the Verus-Ethereum bridge ($7.54M, its second hack this year) and B2's staking contract ($3.86M) were each hit within a six-hour window on July 22-23.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "2026 Hack Toll Passes $1.2 Billion",
+      "text": "$290M Kelp DAO/LayerZero bridge hack sparked $9B Aave panic",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "The Coldcard incident now ranks as the third-largest attack of the year, pushing 2026's cumulative crypto theft past $1.2B across 276 verified incidents.",
+      "text": "The largest DeFi exploit of 2026 so far drained 116,500 rsETH from a LayerZero-built cross-chain bridge, triggering contagion fears that pushed investors to pull roughly $9B from Aave.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "2026 crypto hack losses near $1.2B across 276 incidents",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "CertiK's mid-year tally shows fewer but far more surgical hacks in 2026, with attackers increasingly targeting admin keys and off-chain infrastructure rather than smart contract code itself.",
       "wrap": true,
       "size": "Small"
     }
