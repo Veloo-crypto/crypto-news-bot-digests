@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "August 7, 2026",
+      "text": "August 8, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin market cap sits near $287-310B even as U.S. regulators missed the GENIUS Act's July 18 rule-finalization deadline, leaving issuers in limbo through August comment periods.",
+      "text": "Total stablecoin market cap sits at $286.9B (Aug 2), down from March's record $320B, even as Circle's Q2 revenue beat expectations.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,37 @@
     },
     {
       "type": "TextBlock",
-      "text": "GENIUS Act rules miss deadline, stablecoin uncertainty extends",
+      "text": "US regulators miss GENIUS Act's one-year rulemaking deadline",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Treasury, OCC, Fed, FDIC and NCUA all missed the July 18 deadline to finalize implementing rules, leaving the $310B stablecoin market under an incomplete federal framework. Comment periods run into August (FDIC through Aug 4, five-agency CIP through Aug 21).",
+      "text": "The Fed, OCC, FDIC, NCUA and Treasury all failed to finalize stablecoin rules by the July 18 statutory deadline, leaving issuers without a clear compliance framework into at least H2 2026.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Western Union launches stablecoin-linked Visa card",
+      "text": "Circle beats on USDC growth despite Q2 revenue miss",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Western Union and Rain unveiled Stablecard, pairing a USDPT stablecoin wallet with a Visa card so remittances arrive as stablecoins and spend instantly anywhere Visa is accepted.",
+      "text": "Circle posted $701M in Q2 revenue (vs. $713M est.) but shares jumped 7.4% as USDC supply grew 19% to roughly $72B; its Arc blockchain is set for public launch September 16.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Standard Chartered-backed HKDAP stablecoin rollout slips to August",
+      "text": "Standard Chartered-backed HKDAP stablecoin eyes August launch",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Anchorpoint Financial pushed the public launch of its Hong Kong dollar stablecoin HKDAP into August after missing Q2 and end-of-July targets, opting for a B2B2C distribution model via approved partners.",
-      "wrap": true,
-      "size": "Small"
-    },
-    {
-      "type": "TextBlock",
-      "text": "Tether's USDT stays locked out of the EU as Circle gains ground",
-      "wrap": true,
-      "weight": "Bolder"
-    },
-    {
-      "type": "TextBlock",
-      "text": "USDT remains without MiCA authorization and stays delisted from major EU-regulated exchanges, while Circle's USDC and EURC are MiCA-passportable across all EU member states via its French EMI license.",
+      "text": "Anchorpoint plans to roll out its Hong Kong dollar stablecoin this month for cross-border payments and tokenized assets, distributed B2B2C through approved partners.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +80,37 @@
     },
     {
       "type": "TextBlock",
-      "text": "Coldcard hardware wallet exploit tops $130M",
+      "text": "Coldcard hardware wallet exploit tops $116M and climbing",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A five-year-old firmware flaw let attackers reconstruct Bitcoin seed keys, draining 1,800+ BTC across 5,200+ addresses since July 30 in multiple waves. Coinkite issued an emergency patch and urged anyone who generated a seed since March 2021 to migrate funds.",
+      "text": "A 5-year-old firmware flaw in Coinkite's Coldcard weakened key randomness, letting attackers drain over 5,200 Bitcoin addresses since July 30 in four waves \u2014 the third-largest hack of 2026.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "$35M drained in coordinated attacks on three protocols",
+      "text": "Three DeFi bridges drained for $35.6M in a single day",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "AFX's Arbitrum bridge ($24.15M), the Verus-Ethereum bridge ($7.54M, its second hack this year) and B2's staking contract ($3.86M) were each hit within a six-hour window on July 22-23.",
+      "text": "AFX's Arbitrum bridge lost $24.2M in USDC to a validator-signature compromise, while BSquared ($3.9M) and VerusCoin ($7.5M, via a reused bug) were hit the same day; VerusCoin funds moved to Tornado Cash.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "$290M Kelp DAO/LayerZero bridge hack sparked $9B Aave panic",
+      "text": "Weak-RNG bug in CryptoJS drains $5.7M across five wallet apps",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "The largest DeFi exploit of 2026 so far drained 116,500 rsETH from a LayerZero-built cross-chain bridge, triggering contagion fears that pushed investors to pull roughly $9B from Aave.",
-      "wrap": true,
-      "size": "Small"
-    },
-    {
-      "type": "TextBlock",
-      "text": "2026 crypto hack losses near $1.2B across 276 incidents",
-      "wrap": true,
-      "weight": "Bolder"
-    },
-    {
-      "type": "TextBlock",
-      "text": "CertiK's mid-year tally shows fewer but far more surgical hacks in 2026, with attackers increasingly targeting admin keys and off-chain infrastructure rather than smart contract code itself.",
+      "text": "A flawed random-number implementation in the widely used CryptoJS library exposed private keys in multiple wallet apps, adding to a first-half 2026 total of $1.1B lost to phishing and wallet-drain attacks.",
       "wrap": true,
       "size": "Small"
     }

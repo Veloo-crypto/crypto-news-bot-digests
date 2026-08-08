@@ -1,48 +1,38 @@
 {
-  "date": "August 7, 2026",
-  "market_note": "Stablecoin market cap sits near $287-310B even as U.S. regulators missed the GENIUS Act's July 18 rule-finalization deadline, leaving issuers in limbo through August comment periods.",
+  "date": "August 8, 2026",
+  "market_note": "Total stablecoin market cap sits at $286.9B (Aug 2), down from March's record $320B, even as Circle's Q2 revenue beat expectations.",
   "stablecoin_items": [
     {
-      "headline": "GENIUS Act rules miss deadline, stablecoin uncertainty extends",
-      "summary": "Treasury, OCC, Fed, FDIC and NCUA all missed the July 18 deadline to finalize implementing rules, leaving the $310B stablecoin market under an incomplete federal framework. Comment periods run into August (FDIC through Aug 4, five-agency CIP through Aug 21).",
-      "source": "CryptoDaily / BigGo Finance"
+      "headline": "US regulators miss GENIUS Act's one-year rulemaking deadline",
+      "summary": "The Fed, OCC, FDIC, NCUA and Treasury all failed to finalize stablecoin rules by the July 18 statutory deadline, leaving issuers without a clear compliance framework into at least H2 2026.",
+      "source": "Crypto Briefing"
     },
     {
-      "headline": "Western Union launches stablecoin-linked Visa card",
-      "summary": "Western Union and Rain unveiled Stablecard, pairing a USDPT stablecoin wallet with a Visa card so remittances arrive as stablecoins and spend instantly anywhere Visa is accepted.",
-      "source": "PYMNTS"
+      "headline": "Circle beats on USDC growth despite Q2 revenue miss",
+      "summary": "Circle posted $701M in Q2 revenue (vs. $713M est.) but shares jumped 7.4% as USDC supply grew 19% to roughly $72B; its Arc blockchain is set for public launch September 16.",
+      "source": "AMBCrypto"
     },
     {
-      "headline": "Standard Chartered-backed HKDAP stablecoin rollout slips to August",
-      "summary": "Anchorpoint Financial pushed the public launch of its Hong Kong dollar stablecoin HKDAP into August after missing Q2 and end-of-July targets, opting for a B2B2C distribution model via approved partners.",
+      "headline": "Standard Chartered-backed HKDAP stablecoin eyes August launch",
+      "summary": "Anchorpoint plans to roll out its Hong Kong dollar stablecoin this month for cross-border payments and tokenized assets, distributed B2B2C through approved partners.",
       "source": "crypto.news"
-    },
-    {
-      "headline": "Tether's USDT stays locked out of the EU as Circle gains ground",
-      "summary": "USDT remains without MiCA authorization and stays delisted from major EU-regulated exchanges, while Circle's USDC and EURC are MiCA-passportable across all EU member states via its French EMI license.",
-      "source": "DL News"
     }
   ],
   "hack_items": [
     {
-      "headline": "Coldcard hardware wallet exploit tops $130M",
-      "summary": "A five-year-old firmware flaw let attackers reconstruct Bitcoin seed keys, draining 1,800+ BTC across 5,200+ addresses since July 30 in multiple waves. Coinkite issued an emergency patch and urged anyone who generated a seed since March 2021 to migrate funds.",
-      "source": "TechCrunch / TRM Labs"
+      "headline": "Coldcard hardware wallet exploit tops $116M and climbing",
+      "summary": "A 5-year-old firmware flaw in Coinkite's Coldcard weakened key randomness, letting attackers drain over 5,200 Bitcoin addresses since July 30 in four waves — the third-largest hack of 2026.",
+      "source": "TRM Labs / Fortune"
     },
     {
-      "headline": "$35M drained in coordinated attacks on three protocols",
-      "summary": "AFX's Arbitrum bridge ($24.15M), the Verus-Ethereum bridge ($7.54M, its second hack this year) and B2's staking contract ($3.86M) were each hit within a six-hour window on July 22-23.",
-      "source": "CoinDesk"
+      "headline": "Three DeFi bridges drained for $35.6M in a single day",
+      "summary": "AFX's Arbitrum bridge lost $24.2M in USDC to a validator-signature compromise, while BSquared ($3.9M) and VerusCoin ($7.5M, via a reused bug) were hit the same day; VerusCoin funds moved to Tornado Cash.",
+      "source": "Coinpedia"
     },
     {
-      "headline": "$290M Kelp DAO/LayerZero bridge hack sparked $9B Aave panic",
-      "summary": "The largest DeFi exploit of 2026 so far drained 116,500 rsETH from a LayerZero-built cross-chain bridge, triggering contagion fears that pushed investors to pull roughly $9B from Aave.",
-      "source": "Bloomberg"
-    },
-    {
-      "headline": "2026 crypto hack losses near $1.2B across 276 incidents",
-      "summary": "CertiK's mid-year tally shows fewer but far more surgical hacks in 2026, with attackers increasingly targeting admin keys and off-chain infrastructure rather than smart contract code itself.",
-      "source": "Forbes / CertiK"
+      "headline": "Weak-RNG bug in CryptoJS drains $5.7M across five wallet apps",
+      "summary": "A flawed random-number implementation in the widely used CryptoJS library exposed private keys in multiple wallet apps, adding to a first-half 2026 total of $1.1B lost to phishing and wallet-drain attacks.",
+      "source": "The Hacker News"
     }
   ]
 }
