@@ -1,38 +1,48 @@
 {
-  "date": "August 8, 2026",
-  "market_note": "Total stablecoin market cap sits at $286.9B (Aug 2), down from March's record $320B, even as Circle's Q2 revenue beat expectations.",
+  "date": "August 9, 2026",
+  "market_note": "Stablecoin supply has shed roughly $15B since May — the sharpest contraction since Terra's 2022 collapse — even as Circle preps a Sept 16 mainnet launch for its Arc network.",
   "stablecoin_items": [
     {
-      "headline": "US regulators miss GENIUS Act's one-year rulemaking deadline",
-      "summary": "The Fed, OCC, FDIC, NCUA and Treasury all failed to finalize stablecoin rules by the July 18 statutory deadline, leaving issuers without a clear compliance framework into at least H2 2026.",
-      "source": "Crypto Briefing"
+      "headline": "Stablecoin supply posts biggest drop since Terra",
+      "summary": "Total stablecoin supply is down $15B since May, with USDC's circulating supply alone falling ~$1.5B in five weeks to $71.8B as liquidity tightens.",
+      "source": "News.Bitcoin.com / CryptoBriefing"
     },
     {
-      "headline": "Circle beats on USDC growth despite Q2 revenue miss",
-      "summary": "Circle posted $701M in Q2 revenue (vs. $713M est.) but shares jumped 7.4% as USDC supply grew 19% to roughly $72B; its Arc blockchain is set for public launch September 16.",
-      "source": "AMBCrypto"
+      "headline": "Circle names founding validators for Arc network",
+      "summary": "Circle announced its founding validator cohort and new institutional integrations for Arc, its blockchain network on track for public mainnet on Sept 16, 2026.",
+      "source": "PYMNTS"
     },
     {
-      "headline": "Standard Chartered-backed HKDAP stablecoin eyes August launch",
-      "summary": "Anchorpoint plans to roll out its Hong Kong dollar stablecoin this month for cross-border payments and tokenized assets, distributed B2B2C through approved partners.",
-      "source": "crypto.news"
+      "headline": "Western Union launches stablecoin-linked Visa card",
+      "summary": "Western Union's new \"Stablecard\" pairs a USDPT digital wallet with a Visa card, letting remittances arrive as stablecoins and be spent instantly anywhere Visa is accepted.",
+      "source": "PYMNTS"
+    },
+    {
+      "headline": "CLARITY Act stalls in Senate ahead of recess",
+      "summary": "Progress on the Digital Asset Market CLARITY Act slowed before the Senate's August recess, prolonging regulatory uncertainty for U.S. stablecoin issuers.",
+      "source": "Caleb & Brown Weekly Rollup"
     }
   ],
   "hack_items": [
     {
-      "headline": "Coldcard hardware wallet exploit tops $116M and climbing",
-      "summary": "A 5-year-old firmware flaw in Coinkite's Coldcard weakened key randomness, letting attackers drain over 5,200 Bitcoin addresses since July 30 in four waves — the third-largest hack of 2026.",
-      "source": "TRM Labs / Fortune"
+      "headline": "Coldcard hardware wallet exploit grows to ~$130M",
+      "summary": "A 2021 firmware flaw weakened seed randomness on Coldcard wallets; attackers have drained BTC from over 5,200 addresses across four waves, now the third-largest hack of 2026.",
+      "source": "TechCrunch / TRM Labs"
     },
     {
-      "headline": "Three DeFi bridges drained for $35.6M in a single day",
-      "summary": "AFX's Arbitrum bridge lost $24.2M in USDC to a validator-signature compromise, while BSquared ($3.9M) and VerusCoin ($7.5M, via a reused bug) were hit the same day; VerusCoin funds moved to Tornado Cash.",
-      "source": "Coinpedia"
-    },
-    {
-      "headline": "Weak-RNG bug in CryptoJS drains $5.7M across five wallet apps",
-      "summary": "A flawed random-number implementation in the widely used CryptoJS library exposed private keys in multiple wallet apps, adding to a first-half 2026 total of $1.1B lost to phishing and wallet-drain attacks.",
+      "headline": "Weak RNG in CryptoJS blamed for $5.7M in wallet drains",
+      "summary": "A flawed random-number generator in the CryptoJS library left five separate crypto wallet apps exposed, enabling roughly $5.7M in thefts.",
       "source": "The Hacker News"
+    },
+    {
+      "headline": "BTCPay Server patches critical credential-theft bug",
+      "summary": "BTCPay Server shipped version 2.4.2 to fix a critical vulnerability that could have let attackers steal LND macaroon credentials and drain Lightning nodes.",
+      "source": "Bitcoin Foundation News Roundup"
+    },
+    {
+      "headline": "Bybit wins injunction freezing Lazarus Group assets",
+      "summary": "Bybit secured a preliminary U.S. court injunction freezing stolen assets tied to North Korea's Lazarus Group, stemming from the February 2025 $1.5B exchange hack.",
+      "source": "Bitcoin Foundation News Roundup"
     }
   ]
 }
