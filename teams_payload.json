@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "August 9, 2026",
+      "text": "August 11, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin supply has shed roughly $15B since May \u2014 the sharpest contraction since Terra's 2022 collapse \u2014 even as Circle preps a Sept 16 mainnet launch for its Arc network.",
+      "text": "Stablecoin supply keeps climbing toward $1T by year-end: USDT nears $189B after another $1B mint, while USDC targets $150B in H2 2026.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin supply posts biggest drop since Terra",
+      "text": "Tether mints another $1B USDT",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Total stablecoin supply is down $15B since May, with USDC's circulating supply alone falling ~$1.5B in five weeks to $71.8B as liquidity tightens.",
+      "text": "Tether pushed total USDT supply to roughly $189 billion with a fresh 1B mint on Aug 10, an on-chain event now routine for the market leader.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Circle names founding validators for Arc network",
+      "text": "Circle wins NY trust charter, eyes $150B USDC",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle announced its founding validator cohort and new institutional integrations for Arc, its blockchain network on track for public mainnet on Sept 16, 2026.",
+      "text": "Circle's New York Trust entity received a limited-purpose trust charter from NYDFS on Jul 31, adding custody powers as it targets $150B USDC supply in H2 2026.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Western Union launches stablecoin-linked Visa card",
+      "text": "USDC growing faster than USDT",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Western Union's new \"Stablecard\" pairs a USDPT digital wallet with a Visa card, letting remittances arrive as stablecoins and be spent instantly anywhere Visa is accepted.",
+      "text": "USDC supply is up 73% year-over-year versus USDT's 36%, though USDT and USDC together still hold 93% of the roughly $308B stablecoin market.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "CLARITY Act stalls in Senate ahead of recess",
+      "text": "GENIUS Act rulemaking grinds on",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Progress on the Digital Asset Market CLARITY Act slowed before the Senate's August recess, prolonging regulatory uncertainty for U.S. stablecoin issuers.",
+      "text": "A year after passage, OCC and FDIC are still drafting implementing rules; OCC issued a new proposed rulemaking on stablecoin issuance and FDIC has 144 open questions for issuers.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Coldcard hardware wallet exploit grows to ~$130M",
+      "text": "Coinsbuy exchange loses $7.9M in cross-chain drain",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A 2021 firmware flaw weakened seed randomness on Coldcard wallets; attackers have drained BTC from over 5,200 addresses across four waves, now the third-largest hack of 2026.",
+      "text": "Hot wallets on Ethereum and TRON were drained almost simultaneously on Aug 9; attacker laundered ~79% of funds via FixedFloat into Monero before Coinsbuy refilled balances within 24 hours.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Weak RNG in CryptoJS blamed for $5.7M in wallet drains",
+      "text": "Coldcard firmware flaw drains $116M in Bitcoin",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A flawed random-number generator in the CryptoJS library left five separate crypto wallet apps exposed, enabling roughly $5.7M in thefts.",
+      "text": "A five-year-old firmware bug in Coinkite's Coldcard hardware wallet let an attacker steal 1,816 BTC from 5,200 addresses since Jul 30 \u2014 now the third-largest crypto hack of 2026.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "BTCPay Server patches critical credential-theft bug",
+      "text": "Two bridges hacked in one day, $31.5M lost",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "BTCPay Server shipped version 2.4.2 to fix a critical vulnerability that could have let attackers steal LND macaroon credentials and drain Lightning nodes.",
+      "text": "AFX Trade and Verus cross-chain bridges were hit within hours of each other on Jul 22-23; AFX lost $24.15M to compromised validator keys, Verus lost $7.54M to a reused exploit.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Bybit wins injunction freezing Lazarus Group assets",
+      "text": "2026 already the worst year on record for hacks",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Bybit secured a preliminary U.S. court injunction freezing stolen assets tied to North Korea's Lazarus Group, stemming from the February 2025 $1.5B exchange hack.",
+      "text": "With 164 separate incidents logged through early August, 2026 has surpassed every prior full year, pushing cumulative 2026 losses past $1.2B.",
       "wrap": true,
       "size": "Small"
     }
