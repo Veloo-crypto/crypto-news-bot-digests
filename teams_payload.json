@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "August 14, 2026",
+      "text": "August 18, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "USD stablecoin market cap has jumped 30% (+$71B) to roughly $308B, even as Tether's USDT supply shrank ~$4B over the past 60 days.",
+      "text": "Stablecoin market cap has slid to a six-month low near $287B (down ~$16B in 10 weeks) as the GENIUS Act's ban on payment-stablecoin yields pushes capital toward tokenized Treasuries.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,49 +35,37 @@
     },
     {
       "type": "TextBlock",
-      "text": "Tether Says KPMG Completed Its First Full Audit",
+      "text": "Tether Launches USAT, Enters US Market Head-On With Circle",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Tether announced KPMG finished an independent audit of its financial statements for the first time, though it hasn't released the report publicly.",
+      "text": "Tether's new USAT stablecoin, issued via Anchorage Digital Bank under the GENIUS Act framework, marks its first regulated US product and a direct challenge to Circle's USDC dominance.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Circle Launches cirBTC, a Regulated Wrapped Bitcoin",
+      "text": "Treasury Proposes GENIUS Act Rules After Missing Deadline",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle debuted cirBTC, a 1:1 BTC-backed token custodied under its OCC-supervised trust bank, verified via Chainlink Proof of Reserve.",
+      "text": "US Treasury issued proposed stablecoin issuer rules on Aug 17 after six federal agencies failed to finalize a coordinated package by the July 18 statutory deadline; comment period runs into August.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Circle Shares Slide on Revenue Miss",
+      "text": "Stablecoin Market Cap Slides to Six-Month Low",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Circle stock posted its worst day in months on Aug 12 after a revenue miss, though analysts still see upside as stablecoin volumes hit record highs.",
-      "wrap": true,
-      "size": "Small"
-    },
-    {
-      "type": "TextBlock",
-      "text": "TRM Labs Traces $6.3B Through Sanctioned Shelbit Network",
-      "wrap": true,
-      "weight": "Bolder"
-    },
-    {
-      "type": "TextBlock",
-      "text": "Investigators tracked $6.3B moving through Shelbit following OFAC sanctions on Aug 7, with 88% flowing as dollar stablecoins on Tron.",
+      "text": "Total stablecoin market cap fell to roughly $287B, down $16B over 10 weeks, as GENIUS Act's yield ban on payment stablecoins pushes capital into tokenized Treasuries.",
       "wrap": true,
       "size": "Small"
     },
@@ -92,49 +80,37 @@
     },
     {
       "type": "TextBlock",
-      "text": "Crypto Whale Loses $25.6M in Repeat Wallet Hack",
+      "text": "Coldcard Hardware Wallet Exploit Tops $130M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "An attacker drained a whale's wallet of wBTC, cbBTC, LDO and CRV on Aug 13, converting proceeds to DAI and ETH; the same address was hit in 2023.",
+      "text": "Attackers exploiting a five-year-old firmware flaw in Coinkite's Coldcard wallets have drained over $130M (1,800+ BTC) from 5,200+ addresses across four waves since July 30; Coinkite has pushed emergency patches.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Coldcard Hardware Wallet Exploit Damage Reaches $130M",
+      "text": "macOS Screen-Sharing Flaw Exploited for Covert Monero Mining",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "A five-year-old firmware flaw in Coinkite's Coldcard device has been exploited since July 30, draining over 5,200 addresses across four waves.",
+      "text": "Hackers abused CVE-2026-65400, a now-patched macOS screen-sharing vulnerability, to remotely hijack Macs with exposed port 5900 and mine Monero without owners' knowledge.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Coinsbuy Hit by $7.9M Crypto Hack",
+      "text": "H1 2026 Crypto Hack Losses Hit $1.32B",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Exchange Coinsbuy reported a $7.9M breach, with attackers laundering stolen funds into Monero, part of a wider 2026 theft spree topping $972M.",
-      "wrap": true,
-      "size": "Small"
-    },
-    {
-      "type": "TextBlock",
-      "text": "Two Separate Hacks Drain Over $51M via Key Compromises",
-      "wrap": true,
-      "weight": "Bolder"
-    },
-    {
-      "type": "TextBlock",
-      "text": "A pair of incidents tied to compromised private keys resulted in a combined $51M+ in losses, underscoring persistent key-management risks.",
+      "text": "Crypto project hacks totaled $1.32B in the first half of 2026; April alone saw over $600M stolen across ~30 incidents, including the $285M Drift and $293M Kelp DAO exploits.",
       "wrap": true,
       "size": "Small"
     }
