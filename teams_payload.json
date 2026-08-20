@@ -12,14 +12,14 @@
     },
     {
       "type": "TextBlock",
-      "text": "August 18, 2026",
+      "text": "August 20, 2026",
       "wrap": true,
       "size": "Small",
       "color": "Dark"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin market cap has slid to a six-month low near $287B (down ~$16B in 10 weeks) as the GENIUS Act's ban on payment-stablecoin yields pushes capital toward tokenized Treasuries.",
+      "text": "Tether shed roughly $5.4B in market cap over 60 days as Revolut's USDT delisting deadline (Aug 31) and a new Big Four reserve audit loom.",
       "wrap": true,
       "size": "Small",
       "spacing": "Medium"
@@ -35,37 +35,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Tether Launches USAT, Enters US Market Head-On With Circle",
+      "text": "Treasury's GENIUS Act rules add criminal teeth; Tether faces $47B reserve fix",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Tether's new USAT stablecoin, issued via Anchorage Digital Bank under the GENIUS Act framework, marks its first regulated US product and a direct challenge to Circle's USDC dominance.",
+      "text": "A new Treasury NPRM defines who may legally issue or sell stablecoins, with fines up to $1M and 5 years in prison per violation. Tether is restructuring reserves and hired a Big Four auditor for its first full audit.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Treasury Proposes GENIUS Act Rules After Missing Deadline",
+      "text": "Circle shares fall 20% on stablecoin reward-limit fears",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "US Treasury issued proposed stablecoin issuer rules on Aug 17 after six federal agencies failed to finalize a coordinated package by the July 18 statutory deadline; comment period runs into August.",
+      "text": "Circle stock dropped sharply on concerns over looming limits on stablecoin holder rewards, even as Tether faces wallet freezes and its own reserve overhaul.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "Stablecoin Market Cap Slides to Six-Month Low",
+      "text": "Wyoming's WYST targets Aug 20 mainnet launch",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Total stablecoin market cap fell to roughly $287B, down $16B over 10 weeks, as GENIUS Act's yield ban on payment stablecoins pushes capital into tokenized Treasuries.",
+      "text": "The Wyoming Stable Token Commission is targeting today for the mainnet launch of WYST, the first US state-issued stablecoin.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "OCC clears World Liberty Trust to issue USD1; MoonPay opens PYUSDx launchpad",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "The OCC gave preliminary approval (Aug 14) for World Liberty Trust Company to issue USD1 under federal oversight, while MoonPay opened a launchpad letting developers issue PYUSD-backed stablecoins.",
       "wrap": true,
       "size": "Small"
     },
@@ -80,37 +92,49 @@
     },
     {
       "type": "TextBlock",
-      "text": "Coldcard Hardware Wallet Exploit Tops $130M",
+      "text": "Coldcard hardware wallet exploit tops $130M",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Attackers exploiting a five-year-old firmware flaw in Coinkite's Coldcard wallets have drained over $130M (1,800+ BTC) from 5,200+ addresses across four waves since July 30; Coinkite has pushed emergency patches.",
+      "text": "Attackers exploited a five-year-old firmware flaw in Coinkite's Coldcard wallets, draining 1,816 BTC from 5,200 addresses \u2014 the third-largest crypto hack of 2026.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "macOS Screen-Sharing Flaw Exploited for Covert Monero Mining",
+      "text": "Maya Protocol loses ~$11M in liquidity-pool exploit",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Hackers abused CVE-2026-65400, a now-patched macOS screen-sharing vulnerability, to remotely hijack Macs with exposed port 5900 and mine Monero without owners' knowledge.",
+      "text": "Six chained flaws let an attacker credit nearly 50 million tokens to a pool without proper funding on Aug 19, draining roughly $11M in value.",
       "wrap": true,
       "size": "Small"
     },
     {
       "type": "TextBlock",
-      "text": "H1 2026 Crypto Hack Losses Hit $1.32B",
+      "text": "Crypto thefts hit $163M in August as hacker tactics shift",
       "wrap": true,
       "weight": "Bolder"
     },
     {
       "type": "TextBlock",
-      "text": "Crypto project hacks totaled $1.32B in the first half of 2026; April alone saw over $600M stolen across ~30 incidents, including the $285M Drift and $293M Kelp DAO exploits.",
+      "text": "Monthly theft totals climbed to $163M, with attackers moving away from smart-contract bugs toward wallet and key-management exploits.",
+      "wrap": true,
+      "size": "Small"
+    },
+    {
+      "type": "TextBlock",
+      "text": "2026 hack losses pass $1.2B across 276 incidents",
+      "wrap": true,
+      "weight": "Bolder"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Year-to-date crypto theft has topped $1.2 billion, with North Korea-linked groups reportedly responsible for roughly two-thirds of stolen funds.",
       "wrap": true,
       "size": "Small"
     }
